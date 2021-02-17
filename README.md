@@ -3,12 +3,13 @@
 In Sweden, there is a state funded institution called "öppna förskola" which is provided for parents on parental leave as an indoor space to go 
 and spend time with their small children. There are few educators but they don´t take any responsibility for the children, it is always their parents duty.
 This place could be also called a "playgroup" or "indoor playground". 
+
 Unfortunately despite the amout of expats and foreigners living in Gothenburg, Sweden, there is no such place that would be dedicated to English speaking parents, 
 although there is a high demand for such place and many small playgroups are organized by individual parents through social media.
-Therefore this "International Open Preschool" has been created. 
+Therefore I created this fictional project called "International Open Preschool". 
 The main goal is to present a nice indoor playground for English speaking parents where they can meet other parents and socialize while their children can play around.
 
-This website and place are fictional although I personally believe that if it would existed, there would be a high demand for its services n Gothenburg.
+This website and place are fictional although I personally believe that if it would existed, there would be a high demand for its services in Gothenburg.
  
 ## UX
  
@@ -118,6 +119,7 @@ We share our premises with a communal Öpnna Förskola at Opaltorget, Diamantgat
 
 
 **EVENTS**
+
 A group of activities are organized on a regular basis, others can be spontaneous and they are mostly organized by parents themselves.
 
 ##### Regular activities: 
@@ -143,6 +145,7 @@ International Berlin Theatre for children coming to our place!! BOOKING NEEDED, 
 
 
 **GOTHENBURG WITH KIDS**	
+
 Are you new to Gothenburg and are you looking for tips what to do and where to go?
 Here we have gathered a few links of places that we hope might help you to get to know the city better.
 
@@ -168,6 +171,7 @@ List of outdoor playgrounds in Gothenburg: https://goteborg.se/wps/portal/start/
 
 
 **CONTACT**
+
 Find us at Öppna förskola premises at Opaltorget.
 Diamantgatan 24, Göteborg, 451 23.
 
