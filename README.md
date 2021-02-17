@@ -94,11 +94,15 @@ Is English your preferred language and do you have children aged 0-7 years? You 
 **HOME**
 
 ##### Öppna Förskolas in Sweden
-You may have heard of the öppna förskola institutions in Sweden - an equivalent to a preschool where children are accompanied by their parents (and no responsibility is taken from the staff) but they can fully enjoy the large premises full of toys. Moreover there is a sing and rhytm session led by our professional educator in the middle of the opening session.  
+You may have heard of the öppna förskola institutions in Sweden - 
+an equivalent to a preschool where children are accompanied by their parents 
+(and no responsibility is taken from the staff) but they can fully enjoy the large premises full of toys. 
+Moreover, you may check our Event section to see what other activities we offer.
 
-As a parent you get the opportunity to make new, mainly international contacts, receive information about life in Göteborg and Sweden or get support in the parental role in a new country.
+As a parent you get the opportunity to make new, mainly international contacts, 
+receive information about life in Gothenburg, Sweden or get support in the parental role in a new country.
 
-It is free to visit open preschools and you do not need to register in advance.
+It is free to visit our International Open Preschool and you do not need to register in advance.
 
 ###### Wednesdays 14-17
 ###### Fridays 9-12
@@ -109,13 +113,26 @@ It is free to visit open preschools and you do not need to register in advance.
 
 
 ##### A place to play and talk 
-Everyone who can speak English is welcome to the international open preschool. We are mainly focused on creating a space for international residents living in Gothenburg and providing support in living abroad as a parent but if you are a Swede who wants to get to know other English speaking parents, you may join our playgroups as well!
-Here you can play together with your children, do crafts, have a coffee and participate in group activities such as singing, sometimes theater performances, outdoor walks or meetings with specialists. Regularly we also arrange other events such as second hand markets or regional group meetings. You may find the upcoming events in the event section.  
+Everyone who can speak English is welcome to the international open preschool. 
+We are mainly focused on creating a space for international residents living in Gothenburg and providing 
+support in living abroad as a parent but if you are a Swede who wants to get to know other English speaking parents, 
+you may join our playgroups as well!
+Here you can play together with your children, do crafts, have a coffee and participate in group activities 
+such as singing, occasional theater performances, outdoor walks or meetings with specialists. We are open twice 
+per week and in the middle of the opening hours there is a short guided program with our educators. 
+We sing international as well as Swedish songs and dance together. 
+Regularly we also arrange other events such as second hand markets or regional group meetings. 
+You may find the upcoming events in the event section.  
 
-The regular meetings are free of costs and you do not have to register yourself or your child in advance. There is only a small fee for our coffee and snacks of 20SEK. The events may be payed depending on the type of activity.
+The regular meetings are free of costs and you do not have to register yourself or your child in advance. 
+There is only a small fee for our coffee and snacks of 20SEK. The events may be payed depending on the type of activity.
 
 ##### Premises
-We share our premises with a communal Öpnna Förskola at Opaltorget, Diamantgatan 24. Thanks to their generosity, we are able to provide a fully equipped 3 rooms full of toys, tables for arts&crafts, a dining room with kitchen and a microwave, as well as a quiet zone for breastfeeding. Our restrooms provide changing tables and potties for toddlers. You can park your stroller in our hallway where it is safe to leave your child nap as well.
+We share our premises with a communal Öpnna Förskola at Opaltorget, Diamantgatan 24. 
+Thanks to their generosity, we are able to provide a fully equipped 3 rooms full of toys, 
+tables for arts&crafts, a dining room with kitchen and a microwave, as well as a quiet zone for breastfeeding. 
+Our restrooms provide changing tables and potties for toddlers. You can park your stroller in our hallway 
+where it is safe to leave your child nap as well.
 
 
 **EVENTS**
@@ -124,11 +141,15 @@ A group of activities are organized on a regular basis, others can be spontaneou
 
 ##### Regular activities: 
 ###### Svenska med barn 
-Every first Saturday in a month, 13-14:30  learn Swedish together with your child. Parents focus on learning while their kids can run around and play with our educators.
+Every first Saturday in a month, 13-14:30  learn Swedish together with your child. 
+Parents focus on learning while their kids can run around and play with our educators.
 ###### Book reading in your native language
-Wednesdays, 16:30-17.  We regularly read in Arabic, German, French, Polish and Spanish. Every week there is one language, therefore the same language repeats every five weeks. In case you would be interested in another language, please let us know!
+Wednesdays, 16:30-17.  We regularly read in Arabic, German, French, Polish and Spanish. 
+Every week there is one language, therefore the same language repeats every five weeks. 
+In case you would be interested in another language, please let us know!
 ###### Meeting with a child care professional 
-Every first Saturday in a month, 10:30-12. We arrange a diverse range of meetings with professionals in health, education, after class hobbies and many other areas. Please follow the calendar to see who is coming next.
+Every first Saturday in a month, 10:30-12. We arrange a diverse range of meetings 
+with professionals in health, education, after class hobbies and many other areas. Please follow the calendar to see who is coming next.
 
 
 ##### Irregular activities: 
@@ -137,7 +158,8 @@ Every first Saturday in a month, 10:30-12. We arrange a diverse range of meeting
 ###### Regional pop-up meeting - Brazil
 4.5.2022, 10-12, Plikta, Slottskogen, meeting point is the toy train.
 ###### Three Little Piggies
-International Berlin Theatre for children coming to our place!! BOOKING NEEDED, please contact us via email. Ideally for children aged 2-5 years old. 22.5.2022, 15-17. 
+International Berlin Theatre for children coming to our place!! BOOKING NEEDED, 
+please contact us via email. Ideally for children aged 2-5 years old. 22.5.2022, 15-17. 
 ###### Regional pop-up meeting - Australia
 18.6.2022, 10-12, Plikta, Slottskogen, meeting point is the toy train.
 
