@@ -81,8 +81,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 
-#### International Open Preschool - International Öppna Förskola 
-##### Gothenburg, Sweden
+### INTERNATIONAL OPEN PRESCHOOL - INTERNATIONAL ÖPPNA FÖRSKOLA 
+#### Gothenburg, Sweden
 
 *Everyone is welcome to come and play!*
 
@@ -93,28 +93,28 @@ HOME
 
 HOME
 
-###### Öppna Förskolas in Sweden
+##### Öppna Förskolas in Sweden
 You may have heard of the öppna förskola institutions in Sweden - an equivalent to a preschool where children are accompanied by their parents (and no responsibility is taken from the staff) but they can fully enjoy the large premises full of toys. Moreover there is a sing and rhytm session led by our professional educator in the middle of the opening session.  
 
 As a parent you get the opportunity to make new, mainly international contacts, receive information about life in Göteborg and Sweden or get support in the parental role in a new country.
 
 It is free to visit open preschools and you do not need to register in advance.
 
-Wednesdays 14-17
-Fridays 9-12
+###### Wednesdays 14-17
+###### Fridays 9-12
 
-Diamantgatan 24, Göteborg
-
-
+###### Diamantgatan 24, Göteborg
 
 
-###### A place to play and talk 
+
+
+##### A place to play and talk 
 Everyone who can speak English is welcome to the international open preschool. We are mainly focused on creating a space for international residents living in Gothenburg and providing support in living abroad as a parent but if you are a Swede who wants to get to know other English speaking parents, you may join our playgroups as well!
 Here you can play together with your children, do crafts, have a coffee and participate in group activities such as singing, sometimes theater performances, outdoor walks or meetings with specialists. Regularly we also arrange other events such as second hand markets or regional group meetings. You may find the upcoming events in the event section.  
 
 The regular meetings are free of costs and you do not have to register yourself or your child in advance. There is only a small fee for our coffee and snacks of 20SEK. The events may be payed depending on the type of activity.
 
-###### Premises
+##### Premises
 We share our premises with a communal Öpnna Förskola at Opaltorget, Diamantgatan 24. Thanks to their generosity, we are able to provide a fully equipped 3 rooms full of toys, tables for arts&crafts, a dining room with kitchen and a microwave, as well as a quiet zone for breastfeeding. Our restrooms provide changing tables and potties for toddlers. You can park your stroller in our hallway where it is safe to leave your child nap as well.
 
 
