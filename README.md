@@ -88,10 +88,9 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 Is English your preferred language and do you have children aged 0-7 years? You are welcome at our International open preschool - a free meeting place for families and their children.
  
-Navigation: HOME   EVENTS 	GOTHENBURG WITH KIDS	CONTACT
-HOME
+**HOME    EVENTS 	    GOTHENBURG WITH KIDS	    CONTACT**
 
-HOME
+**HOME**
 
 ##### Öppna Förskolas in Sweden
 You may have heard of the öppna förskola institutions in Sweden - an equivalent to a preschool where children are accompanied by their parents (and no responsibility is taken from the staff) but they can fully enjoy the large premises full of toys. Moreover there is a sing and rhytm session led by our professional educator in the middle of the opening session.  
@@ -116,6 +115,76 @@ The regular meetings are free of costs and you do not have to register yourself 
 
 ##### Premises
 We share our premises with a communal Öpnna Förskola at Opaltorget, Diamantgatan 24. Thanks to their generosity, we are able to provide a fully equipped 3 rooms full of toys, tables for arts&crafts, a dining room with kitchen and a microwave, as well as a quiet zone for breastfeeding. Our restrooms provide changing tables and potties for toddlers. You can park your stroller in our hallway where it is safe to leave your child nap as well.
+
+
+**EVENTS**
+A group of activities are organized on a regular basis, others can be spontaneous and they are mostly organized by parents themselves.
+
+##### Regular activities: 
+###### Svenska med barn 
+Every first Saturday in a month, 13-14:30  learn Swedish together with your child. Parents focus on learning while their kids can run around and play with our educators.
+###### Book reading in your native language
+Wednesdays, 16:30-17.  We regularly read in Arabic, German, French, Polish and Spanish. Every week there is one language, therefore the same language repeats every five weeks. In case you would be interested in another language, please let us know!
+###### Meeting with a child care professional 
+Every first Saturday in a month, 10:30-12. We arrange a diverse range of meetings with professionals in health, education, after class hobbies and many other areas. Please follow the calendar to see who is coming next.
+
+
+##### Irregular activities: 
+###### Child Clothing&toys Marketplace
+9.4.2022, 16-18
+###### Regional pop-up meeting - Brazil
+4.5.2022, 10-12, Plikta, Slottskogen, meeting point is the toy train.
+###### Three Little Piggies
+International Berlin Theatre for children coming to our place!! BOOKING NEEDED, please contact us via email. Ideally for children aged 2-5 years old. 22.5.2022, 15-17. 
+###### Regional pop-up meeting - Australia
+18.6.2022, 10-12, Plikta, Slottskogen, meeting point is the toy train.
+
+
+
+
+**GOTHENBURG WITH KIDS**	
+Are you new to Gothenburg and are you looking for tips what to do and where to go?
+Here we have gathered a few links of places that we hope might help you to get to know the city better.
+
+For more information please visit the home pages of each institution.
+
+**Universeum** - is a public science centre and museum in Gothenburg, Sweden that opened in 2001.
+https://www.universeum.se/ 
+
+**Världskulturmuseet** - Museum of World culture - free entrance, https://www.varldskulturmuseet.se/
+
+**Liseberg** - amusement park, https://www.liseberg.se/
+
+**Göteborgs Naturhistoriska Museum** - Gothenburg Museum of Natural History , www.gnm.se
+
+**Göteborgs stadsmuseum** - Gothenburg City Museum, goteborgsstadsmuseum.se
+
+**Leo´s Lekland** - amusement, trampolines etc., two premises in Gothenburg: Mölndal and Partille, www.leoslekland.se
+
+**Megafun** - amusement, trampolines, etc., Backaplan, www.megafun.se 
+
+
+List of outdoor playgrounds in Gothenburg: https://goteborg.se/wps/portal/start/kultur-och-fritid/fritid-och-natur/parker-lekplatser/lekplatser/hitta-lekplatser?uri=gbglnk%3Agbg.page.e9777318-dc81-4755-9d60-628f8f146ffba&servicetype=Lekplatser
+
+
+**CONTACT**
+Find us at Öppna förskola premises at Opaltorget.
+Diamantgatan 24, Göteborg, 451 23.
+
+MAP ??
+
+Contact us directly: 
+Name, Email, Your message to us. Submit.
+
+Currently there are two educators taking care of International Open Preschool. If you prefer, you can also reach to them directly: 
+
+Anna Smith
+anna.smith@intoppnaforskola.se
++46 792 54 87 22
+
+Nina Eriksson
+nina.eriksson@intoppnaforskola.se
++46 797 55 61 24
 
 
 
