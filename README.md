@@ -82,6 +82,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ### Content
 
+**HOME    EVENTS 	    GOTHENBURG WITH KIDS	    CONTACT**
+
 ### INTERNATIONAL OPEN PRESCHOOL - INTERNATIONAL ÖPPNA FÖRSKOLA 
 #### Gothenburg, Sweden
 
@@ -89,8 +91,6 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 Is English your preferred language and do you have children aged 0-7 years? You are welcome at our International open preschool - a free meeting place for families and their children.
  
-**HOME    EVENTS 	    GOTHENBURG WITH KIDS	    CONTACT**
-
 **HOME**
 
 ##### Öppna Förskolas in Sweden
