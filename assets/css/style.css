@@ -20,4 +20,8 @@ body {
     outline: none;
 }
 
+.navbar {
+    text-align: right;
+}
+
 
