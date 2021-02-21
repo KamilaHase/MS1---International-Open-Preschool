@@ -1,22 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Truculenta&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 
 body {
     font-family: 'Pathway Gothic One', sans-serif;
+    color: #777777;
 }
 
 .logo {
-    color: grey;
-    font-size: 30px;
-    font-weight: bold;
-    text-decoration: none;
+    font-size: 2px; 
 }
 
-.logo a:hover{
-    
+.logo a {
+    text-decoration: none;  
 }
 
-.navbar {
-    text-align: right;
+h1 {
+    font-family: Truculenta, sans-serif;
+    color: #DB2929;
 }
+
+h2 {
+   font-family: Truculenta, sans-serif;
+   color: rgb(158, 30, 30);
+   padding-bottom: 10px;
+   line-height: 50%;
+}
+
 
 
