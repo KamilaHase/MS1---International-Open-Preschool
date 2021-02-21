@@ -1,19 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Truculenta&display=swap');
 
-* {
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
+
 
 body {
     font-family: 'Pathway Gothic One', sans-serif;
     color: #777777;
 }
 
+/*---------------------------------------Logo*/
+
 .logo {
     font-size: 2px; 
+    margin: 0;
+    padding: 0;
 }
 
 .logo a {
@@ -32,5 +32,12 @@ h2 {
    line-height: 50%;
 }
 
+/*---------------------------------------Navbar from Bootstrap*/
 
 
+/*---------------------------------------Background Image*/
+
+.img-fluid {
+    margin: 0;
+    padding: 0;
+}
