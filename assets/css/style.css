@@ -1,23 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
 
-*{
-    margin:0;
-    padding:0;
-    border:0;
-}
-
 body {
     font-family: 'Pathway Gothic One', sans-serif;
 }
 
 .logo {
     color: grey;
-    font-size: x-large;
+    font-size: 30px;
     font-weight: bold;
+    text-decoration: none;
 }
 
-.logo p:hover{
-    outline: none;
+.logo a:hover{
+    
 }
 
 .navbar {
