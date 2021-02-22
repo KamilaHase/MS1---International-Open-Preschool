@@ -37,3 +37,15 @@ h2 {
 .welcome-header {
     font-weight: 100;
 }
+
+/*-------------------------ABOUT---*/
+
+.about {
+    min-height: 100vh;
+
+    /*display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;*/
+}
