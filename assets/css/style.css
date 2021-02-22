@@ -1,14 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Pathway+Gothic+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Truculenta&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Fredericka+the+Great&family=Open+Sans:wght@300;400;600;700&family=Pacifico&display=swap');
+
+/*font-family: 'Cabin Sketch', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Fredericka the Great', cursive;
+
+*/
+
+
 
 body {
-    font-family: 'Pathway Gothic One', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: #13025c;
 }
 
 h2 {
-    color:#ce752c; 
-    font-family: Truculenta, sans-serif;
+    color:#420202; 
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 25px;
+    font-weight: 700;
+    text-transform: uppercase;
+    
     
 }
 
@@ -16,12 +28,24 @@ h2 {
     font-size: medium;
 }
 
+.heading {
+     font-family: 'Fredericka the Great', cursive;
+     font-weight: 400;
+     font-size: 40px;
+
+}
+
+#navbarText {
+    font-family: 'Fredericka the Great', cursive;
+    color: #ce752c;
+}
+
 /*-------------------------WELCOME---*/
 .welcome {
     height: 100vh;
 
 
-    background: url(../images/pexels-magda-ehlers-1319572-b.jpg) no-repeat center center fixed;
+    background: url(../images/pexels-magda-ehlers-1319572-bc.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -34,8 +58,31 @@ h2 {
     position: relative;
 }
 
-.welcome-header {
-    font-weight: 100;
+.welcome-heading {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 40px;
+    
+}
+
+.welcome-main-text {
+}
+
+/*-------------------------OF IN SWEDEN---*/
+
+.of-in-sweden {
+    height: 100vh;
+
+    background: url(../images/digital-paper-5233753-b.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
 }
 
 /*-------------------------ABOUT---*/
@@ -43,9 +90,34 @@ h2 {
 .about {
     min-height: 100vh;
 
-    /*display: flex;
+    display: flex;
     align-items: center;
     justify-content: center;
 
-    position: relative;*/
+    position: relative;
+}
+
+/*-------------------------PREMISES---*/
+
+.premises {
+    min-height: 100vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+/*-------------------------FOOTER---*/
+
+.footer {
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+
+}
+
+i {
+    color: #fafa;
 }
