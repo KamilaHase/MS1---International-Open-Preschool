@@ -12,6 +12,13 @@ font-family: 'Fredericka the Great', cursive;
 body {
     font-family: 'Open Sans', sans-serif;
     color: #13025c;
+
+    background: url(../images/confetti-1637197-b.jpg) center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
 }
 
 h2 {
@@ -20,6 +27,7 @@ h2 {
     font-size: 25px;
     font-weight: 700;
     text-transform: uppercase;
+    background-color: white;
     
     
 }
@@ -37,6 +45,7 @@ h2 {
 
 #navbarText {
     font-family: 'Fredericka the Great', cursive;
+    background-color: white;
     color: #ce752c;
 }
 
@@ -45,7 +54,7 @@ h2 {
     height: 100vh;
 
 
-    background: url(../images/pexels-magda-ehlers-1319572-bc.jpg) no-repeat center center fixed;
+    background: url(../images/barrett-ward-1qQx3LHaYGg-unsplash.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -61,6 +70,7 @@ h2 {
 .welcome-heading {
     font-family: 'Fredericka the Great', cursive;
     font-size: 40px;
+    margin: 0;
     
 }
 
@@ -70,9 +80,9 @@ h2 {
 /*-------------------------OF IN SWEDEN---*/
 
 .of-in-sweden {
-    height: 100vh;
+    height: 30vh;
 
-    background: url(../images/digital-paper-5233753-b.jpg) no-repeat center center fixed;
+    /*background: url(../images/confetti-1637197-b.jpg) center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -82,13 +92,30 @@ h2 {
     align-items: center;
     justify-content: center;
 
-    position: relative;
+    position: relative;*/
+}
+
+.of-text {
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    text-align: left;
+    background-color: aliceblue;
+}
+
+.container-wrapper {
+    margin: 0px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #1d2527;
+}
 }
 
 /*-------------------------ABOUT---*/
 
 .about {
-    min-height: 100vh;
+    height: 50vh;
+
 
     display: flex;
     align-items: center;
@@ -97,10 +124,15 @@ h2 {
     position: relative;
 }
 
+.container-wraper-about {
+    background-color: #f5f9fa;
+}
+
+
 /*-------------------------PREMISES---*/
 
 .premises {
-    min-height: 100vh;
+    min-height: 30vh;
 
     display: flex;
     align-items: center;
