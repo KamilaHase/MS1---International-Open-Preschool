@@ -55,7 +55,7 @@ h2 {
     margin: 0;
     padding: 0;
     color: rgba(134, 133, 133, 0.301);
-    weight: 700;
+    
 }
 .welcome {
     height: 100vh;
@@ -131,7 +131,7 @@ h5 {
 }
 
 .container-wraper-about {
-    background-color: #f5f9fa;
+    background-color: rgb(227, 124, 35);
 }
 
 
