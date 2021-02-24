@@ -21,11 +21,13 @@ body {
 
 }
 
+/*-------------------------NAVBAR---*/
+
 h2 {
-    color:#420202; 
-    font-family: 'Fredericka the Great', cursive;
+    color: #032231; 
+    font-family: 'Open Sans', sans-serif;
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 800;
     text-transform: uppercase;
     background-color: white;
     
@@ -61,7 +63,7 @@ h2 {
     height: 100vh;
 
 
-    background: url(../images/crayons-2.jpg) no-repeat center center fixed;
+    background: url(../images/wooden_toy_train.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -73,11 +75,16 @@ h2 {
     position: relative;
 }
 
+
+
 .welcome-heading {
     font-family: 'Fredericka the Great', cursive;
     font-size: 40px;
+    font-weight: 500;
     margin-top: 100px; 
-    text-align: center;   
+    margin-bottom: 0;
+    padding-bottom: 0;
+    text-align: center; 
 }
 
 h5 {
