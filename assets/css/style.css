@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@400;700&family=Fredericka+the+Great&family=Open+Sans:wght@300;400;600;700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Cabin+Sketch:wght@400;700&family=Fredericka+the+Great&family=Open+Sans:wght@300;400;600;700&family=Pacifico&display=swap');
 
 /*font-family: 'Cabin Sketch', cursive;
 font-family: 'Open Sans', sans-serif;
 font-family: 'Pacifico', cursive;
 font-family: 'Fredericka the Great', cursive;
+font-family: 'Lobster', cursive;
 
 */
 
@@ -24,11 +25,10 @@ body {
 /*-------------------------NAVBAR---*/
 
 h2 {
-    color: #032231; 
-    font-family: 'Open Sans', sans-serif;
-    font-size: 25px;
+    color: #DD3805; 
+    font-family: 'Lobster', sans-serif;
+    font-size: 37px;
     font-weight: 800;
-    text-transform: uppercase;
     background-color: white;
     
     
@@ -60,10 +60,11 @@ h2 {
     
 }
 .welcome {
-    height: 50vh;
+    height: 60vh;
 
 
-    background: url(../images/wooden_toy_train-b.jpg) no-repeat center center fixed;
+    background: url(../images/figure-caterpillar-wood-toys.jpg) center center fixed;
+    ) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -79,6 +80,7 @@ h2 {
 
 .welcome-heading {
     font-family: 'Fredericka the Great', cursive;
+    color: white;
     font-size: 40px;
     font-weight: 500;
     margin-top: 100px; 
@@ -87,8 +89,10 @@ h2 {
     text-align: center; 
 }
 
-h5 {
-    text-align: center;
+
+.welcome-text {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
 }
 
 /*-------------------------OF IN SWEDEN---*/
@@ -113,14 +117,18 @@ h5 {
     margin-left: 50px;
     margin-top: 50px;
     margin-right: 50px;
-    background-color: aliceblue;
+    background-color: #E0E8EC;
 }
 
-.container-wrapper {
+.of-text-of {
+    color: rgb(5, 36, 54);
+}
+
+/*.container-wrapper-of {
     margin: 0px;
     padding-top: 50px;
-    padding-bottom: 50px;
-    background-color: #1d2527;
+    padding-bottom: 50px;*/
+    
 }
 }
 
@@ -138,20 +146,27 @@ h5 {
 }
 
 .container-wraper-about {
-    background-color: rgb(227, 124, 35);
+    background-color: #FB754B;
 }
 
+.of-text-place-to-play {
+    color: white;
+}
 
 /*-------------------------PREMISES---*/
 
 .premises {
-    min-height: 30vh;
+    min-height: 50vh;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
     position: relative;
+}
+
+.container-wraper-premises {
+    background-color: #ADC2CB;
 }
 
 /*-------------------------FOOTER---*/
