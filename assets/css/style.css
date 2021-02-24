@@ -60,10 +60,10 @@ h2 {
     
 }
 .welcome {
-    height: 100vh;
+    height: 50vh;
 
 
-    background: url(../images/wooden_toy_train.jpg) no-repeat center center fixed;
+    background: url(../images/wooden_toy_train-b.jpg) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
