@@ -100,15 +100,17 @@ h2 {
 
 /*------------------------CIRCLES WITH TEXT adapted from https://css-tricks.com/using-css-to-set-text-inside-a-circle/ */
 .wrapper-vh {
-    height: 100vh;
+    height: 60vh;
     
 }
 
+/*----circle Oppna Forskola--*/
+
 
 .container-wrapper {
-  height: 160px;
+  height: 180px;
   position: relative;
-  width: 160px;
+  width: 180px;
   margin-top: 20px;
 }
 
@@ -124,7 +126,7 @@ h2 {
 }
 
 .of-heading h4 {
-    font-size: 21px;
+    font-size: 25px;
     color: white;   
     height: 100%;
     line-height: 1.42;
@@ -174,6 +176,157 @@ h2 {
         );
     shape-margin: 7%;
 }
+
+/*----circle About--*/
+
+.container-wrapper {
+  height: 190px;
+  position: relative;
+  width: 190px;
+  margin-top: 20px;
+}
+
+.about-heading {
+  background: radial-gradient(
+    ellipse at center,
+    rgb(253, 117, 80) 0%,
+    rgba(253, 117, 80, 1) 70%,
+    rgba(160, 36, 2, 0) 70.3%
+    );
+    height: 100%;
+    width: 100%;
+}
+
+.about-heading h4 {
+    font-size: 27px;
+    color: white;   
+    height: 100%;
+    line-height: 1.42;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.about-heading::before {
+    content: "";
+    float: left;
+    height: 100%;
+    width: 50%;
+    shape-outside: polygon(
+        0 0,
+        98% 0,
+        50% 6%,
+        23.4% 17.3%,
+        6% 32.6%,
+        0 50%,
+        6% 65.6%,
+        23.4% 82.7%,
+        50% 94%,
+        98% 100%,
+        0 100%
+    );
+    shape-margin: 7%;
+}
+
+.about-heading h4::before {
+    content: "";
+    float: right;
+    height: 100%;
+    width: 50%;
+    shape-outside: polygon(
+        2% 0%,
+        100% 0%,
+        100% 100%,
+        2% 100%,
+        50% 94%,
+        76.6% 82.7%,
+        94% 65.6%,
+        100% 50%,
+        94% 32.6%,
+        76.6% 17.3%,
+        50% 6%
+        );
+    shape-margin: 7%;
+}
+
+/*----circle Premises--*/
+
+.container-wrapper {
+  height: 190px;
+  position: relative;
+  width: 190px;
+  margin-top: 20px;
+}
+
+.premises-heading {
+  background: radial-gradient(
+    ellipse at center,
+    rgb(253, 117, 80) 0%,
+    rgba(253, 117, 80, 1) 70%,
+    rgba(160, 36, 2, 0) 70.3%
+    );
+    height: 100%;
+    width: 100%;
+}
+
+.premises-heading h4 {
+    font-size: 31px;
+    color: white;   
+    height: 100%;
+    line-height: 1.45;
+    padding: 0;
+    text-align: center;
+    
+}
+
+.heading br {
+    margin-top: 3px;
+}
+
+.premises-heading::before {
+    content: "";
+    float: left;
+    height: 100%;
+    width: 50%;
+    shape-outside: polygon(
+        0 0,
+        98% 0,
+        50% 6%,
+        23.4% 17.3%,
+        6% 32.6%,
+        0 50%,
+        6% 65.6%,
+        23.4% 82.7%,
+        50% 94%,
+        98% 100%,
+        0 100%
+    );
+    shape-margin: 7%;
+}
+
+.premises-heading h4::before {
+    content: "";
+    float: right;
+    height: 100%;
+    width: 50%;
+    shape-outside: polygon(
+        2% 0%,
+        100% 0%,
+        100% 100%,
+        2% 100%,
+        50% 94%,
+        76.6% 82.7%,
+        94% 65.6%,
+        100% 50%,
+        94% 32.6%,
+        76.6% 17.3%,
+        50% 6%
+        );
+    shape-margin: 7%;
+}
+
+
+
 
 
 /*-------------------------OF IN SWEDEN---*/
