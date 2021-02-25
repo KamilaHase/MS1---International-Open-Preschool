@@ -12,7 +12,8 @@ font-family: 'Lobster', cursive;
 
 body {
     font-family: 'Open Sans', sans-serif;
-    color: #13025c;
+    font-weight: bold;
+    
 
     background: url(../images/confetti-1637197-b.jpg) center center fixed;
     -webkit-background-size: cover;
@@ -177,6 +178,10 @@ h2 {
     shape-margin: 7%;
 }
 
+.of-text br {
+    line-height: 1.5;
+}
+
 /*----circle About--*/
 
 .container-wrapper {
@@ -261,27 +266,24 @@ h2 {
 .premises-heading {
   background: radial-gradient(
     ellipse at center,
-    rgb(253, 117, 80) 0%,
-    rgba(253, 117, 80, 1) 70%,
-    rgba(160, 36, 2, 0) 70.3%
+    rgb(173, 194, 203) 0%,
+    rgba(173, 194, 203, 1) 70%,
+    rgba(61, 86, 97, 0) 70.3%
     );
     height: 100%;
     width: 100%;
 }
 
 .premises-heading h4 {
-    font-size: 31px;
+    font-size: 31.3px;
     color: white;   
     height: 100%;
-    line-height: 1.45;
+    line-height: 1.7;
     padding: 0;
     text-align: center;
     
 }
 
-.heading br {
-    margin-top: 3px;
-}
 
 .premises-heading::before {
     content: "";
