@@ -33,7 +33,7 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### Features Left to Implement
-- Another feature idea
+- I wanted the circles to be collapsible, failed to implement that
 
 ## Technologies Used
 
