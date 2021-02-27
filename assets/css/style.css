@@ -327,75 +327,32 @@ h2 {
     shape-margin: 7%;
 }
 
-/*-------------------------OF IN SWEDEN---*/
-/*
+/*-------------------------EVENTS---*/
 
 
-.of-text {
-    background-color: white;
-    margin: 20px 20px 20px 30px;
-    padding: 30px;
-    letter-spacing: 2px;
-    width: 100%;
-
-}
-
-.of-text p {
-    color: black;
-
-}
-
-/*
-
-.heading-href {
+.heading-regular-event {
     font-family: 'Fredericka the Great', cursive;
-    font-size: normal;
-    color: black;
-    text-align: right;
-    text-decoration: none;
+    color:#FD7550;
+    font-size: 20px;
+    font-weight: bold;
 }
 
-
-
-/*-------------------------ABOUT---*/
-
-/*
-.about {
-    height: 60vh;
-
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    position: relative;
+.text-event {
+    text-transform: uppercase;
+    color:#FD7550;
 }
 
-.container-wraper-about {
-    background-color: #FB754B;
+.heading-irregular-event {
+    font-family: 'Fredericka the Great', cursive;
+    color: #1F4660;
+    font-size: 20px;
+    font-weight: bold;
 }
 
-.of-text-place-to-play {
-    color: white;
+.text-event-ir {
+    text-transform: uppercase;
+    color: #1F4660;
 }
-
-/*-------------------------PREMISES---*/
-/*
-.premises {
-    min-height: 60vh;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    
-}
-
-.container-wraper-premises {
-    background-color: #ADC2CB;
-}
-
-*/
 
 /*-------------------------FOOTER---*/
 
