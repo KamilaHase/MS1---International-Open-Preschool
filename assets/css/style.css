@@ -328,7 +328,9 @@ h2 {
 }
 
 /*-------------------------EVENTS---*/
-
+.intro-text-events {
+    margin: 20px;
+}
 
 .heading-regular-event {
     font-family: 'Fredericka the Great', cursive;
