@@ -67,7 +67,6 @@ h2 {
 .welcome {
     height: 100vh;
 
-
     background: url(../images/HaseKR-toys-blur.jpg) center center fixed;
     ) no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -183,87 +182,6 @@ h2 {
     shape-margin: 7%;
 }
 
-.of-text br {
-    line-height: 1.5;
-}
-
-/*----circle About button--*/
-
-
-.container-wrapper-link {
-  height: 100px;
-  position: relative;
-  width: 100px;
-  margin-top: 20px;
-}
-
-
-.of-heading-link {
-  background: radial-gradient(
-    ellipse at center,
-    rgb(92, 119, 136) 0%,
-    rgba(92, 119, 136, 1) 70%,
-    rgba(39, 50, 57, 0) 70.3%
-    );
-    height: 100%;
-    width: 100%;
-}
-
-.of-heading-link h4 {
-    font-size: 25px;
-    color: white;   
-    height: 100%;
-    line-height: 1.42;
-    padding: 0;
-    text-align: center;
-    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.3);
-}
-
-.of-heading-link::before {
-    content: "";
-    float: left;
-    height: 100%;
-    width: 50%;
-    shape-outside: polygon(
-        0 0,
-        98% 0,
-        50% 6%,
-        23.4% 17.3%,
-        6% 32.6%,
-        0 50%,
-        6% 65.6%,
-        23.4% 82.7%,
-        50% 94%,
-        98% 100%,
-        0 100%
-    );
-    shape-margin: 7%;
-}
-
-.of-heading-link h4::before {
-    content: "";
-    float: right;
-    height: 100%;
-    width: 50%;
-    shape-outside: polygon(
-        2% 0%,
-        100% 0%,
-        100% 100%,
-        2% 100%,
-        50% 94%,
-        76.6% 82.7%,
-        94% 65.6%,
-        100% 50%,
-        94% 32.6%,
-        76.6% 17.3%,
-        50% 6%
-        );
-    shape-margin: 7%;
-}
-*/
-
-
-
 /*----circle About--*/
 
 .container-wrapper {
@@ -339,6 +257,7 @@ h2 {
 /*----circle Premises--*/
 
 .container-wrapper {
+  margin-top: 20px;
   height: 190px;
   position: relative;
   width: 190px;
@@ -362,8 +281,7 @@ h2 {
     height: 100%;
     line-height: 1.7;
     padding: 0;
-    text-align: center;
-    
+    text-align: center;    
 }
 
 
@@ -409,16 +327,14 @@ h2 {
     shape-margin: 7%;
 }
 
-
-
-
-
 /*-------------------------OF IN SWEDEN---*/
+/*
+
 
 .of-text {
     background-color: white;
     margin: 20px 20px 20px 30px;
-    padding: 80px;
+    padding: 30px;
     letter-spacing: 2px;
     width: 100%;
 
@@ -429,63 +345,23 @@ h2 {
 
 }
 
-.of-text .larger-space {
-    line-height: 1.5;
-}
+/*
 
 .heading-href {
     font-family: 'Fredericka the Great', cursive;
-    font-size: small;
+    font-size: normal;
     color: black;
+    text-align: right;
+    text-decoration: none;
 }
-
-
-/*
-.circle-of {
-    height: 300px;
-    position: relative;
-    width: 300px;
-    background-color: #13025c;
-}
-
-
-}
-
-.heading-of {
-    
-    color: white;
-    height: 100%;
-    width: 100%;
-
-    position: relative;
-    margin: 0;*/
-   
-   /* border-radius: 50%;
-    width: 250px;
-    height: 250px;
-    line-height: 250px;
-    text-align: center;*/
-}
-
-/*
-.of-in-sweden {
-    height: 30vh;
-    margin-left: 50px;
-    margin-top: 50px;
-    margin-right: 50px;
-    margin-bottom: 50px;
-    background-color: #2A4C63;
-}
-
-*/
-
 
 
 
 /*-------------------------ABOUT---*/
 
+/*
 .about {
-    height: 50vh;
+    height: 60vh;
 
 
     display: flex;
@@ -504,20 +380,22 @@ h2 {
 }
 
 /*-------------------------PREMISES---*/
-
+/*
 .premises {
-    min-height: 50vh;
+    min-height: 60vh;
 
     display: flex;
     align-items: center;
     justify-content: center;
 
-    position: relative;
+    
 }
 
 .container-wraper-premises {
     background-color: #ADC2CB;
 }
+
+*/
 
 /*-------------------------FOOTER---*/
 
