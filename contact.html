@@ -19,7 +19,7 @@
 
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
             <div class="container-fluid">
                 <a class="navbar-brand" href="#"><h2>International Open Preschool - Internationella Öppna Förskola<span id="smaller-text-navbar"><br>Gothenburg, Sweden</span></h2></a>
                 
@@ -48,41 +48,69 @@
             </nav>
 
 </header>
-    
 
-<div class="input-group mb-3">
-  <span class="input-group-text" id="basic-addon1">@</span>
-  <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="basic-addon1">
-</div>
 
-<div class="input-group mb-3">
-  <input type="text" class="form-control" placeholder="Recipient's username" aria-label="Recipient's username" aria-describedby="basic-addon2">
-  <span class="input-group-text" id="basic-addon2">@example.com</span>
-</div>
+<section class="contact-form">
+    <div class="card-wrapper container-fluid bg-light shadow p-3 mb-5 bg-body rounded">
+    <div class="row">
+        <h5 class="card-title contact-heading">Please don´t hesitate to contact us!</h5>
+        <p>Fill in the form in case you want to tell us anything or attend one of our events that need subscription. In case you prefer a direct contact, use email or phone of one of our educators.</p>
+    </div>
+    <div class="center-form contact-form">
+        <input type="text" name="name" id="fullname" class="form-control border-danger border-top-0 border-end-0" placeholder="Enter Full Name" required>
+        <hr class="bg-transparent">
+        <input type="email" name="email" id="email" class="form-control border-danger border-top-0 border-end-0" placeholder="Enter Your Email" required>
+        <hr class="bg-transparent">
+        <select class="custom-select mr-sm-2 category-dropdown border-danger border-top-0 border-end-0" id="category" required="">
+                <option value="">What is your query related to?</option>
+                <option value="subscription">Subscription to an event</option>
+                <option value="personal">Personal meeting with a professional</option>
+                <option value="others">Other topic</option>
+            </select>
+            <hr class="bg-transparent">
+        <textarea rows="5" name="query" id="query" class="form-control border-danger border-top-0 border-end-0" placeholder="Let us know what is on your mind!" required=""></textarea>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+            <button type="submit" class="btn btn-danger text-center">Submit</button>
+        </div>
+    </div>
+    </div>
+</section>
 
-<label for="basic-url" class="form-label">Your vanity URL</label>
-<div class="input-group mb-3">
-  <span class="input-group-text" id="basic-addon3">https://example.com/users/</span>
-  <input type="text" class="form-control" id="basic-url" aria-describedby="basic-addon3">
-</div>
+    <hr class="bg-transparent divider-line">
 
-<div class="input-group mb-3">
-  <span class="input-group-text">$</span>
-  <input type="text" class="form-control" aria-label="Amount (to the nearest dollar)">
-  <span class="input-group-text">.00</span>
-</div>
 
-<div class="input-group mb-3">
-  <input type="text" class="form-control" placeholder="Username" aria-label="Username">
-  <span class="input-group-text">@</span>
-  <input type="text" class="form-control" placeholder="Server" aria-label="Server">
-</div>
 
-<div class="input-group">
-  <span class="input-group-text">With textarea</span>
-  <textarea class="form-control" aria-label="With textarea"></textarea>
-</div>
-    
+    <section class="contact-us-directly"> 
+    <div class="row row-cols-1 row-cols-md-2 g-4 text-center">
+        <div class="col">
+            <div class="card border-danger shadow p-3 mb-5 bg-body rounded">
+            <div class="card-body">
+                <div class="d-none d-sm-block">
+                    <img src="assets/images/igrushki-medvedi-obekty-28514.jpg" class="rounded-circle mr-3" height=100 width=100>
+                </div>
+                    <h5 class="card-title contact-heading">Anna Smith</h5>
+                    <p class="card-text">anna.smith@intoppnaforskola.se</p>
+                    <p class="card-text"><small class="text-muted">+46 792 54 87 22</small></p>
+                    
+            </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card border-danger shadow p-3 mb-5 bg-body rounded">
+            <div class="card-body">
+                <div class="d-none d-sm-block">
+                    <img src="assets/images/phillip-glickman-2umO15jsZKM-unsplash.jpg" class="rounded-circle mr-3" height=100 width=100>
+                </div> 
+                <h5 class="card-title contact-heading">Nina Eriksson</h5>
+                    <p class="card-text">nina.eriksson@intoppnaforskola.se</p>
+                    <p class="card-text"><small class="text-muted">+46 797 55 61 24</small></p>
+            </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
 
 <footer class="footer">
     <div class="row">
