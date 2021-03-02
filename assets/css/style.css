@@ -361,6 +361,12 @@ h2 {
 
 /*-------------------------GETTING AROUND---*/
 
+.coloured-icon i {
+    color: #326792;
+    font-size: 300%;
+    background-color: white;
+}
+
 .moje-barva {
     background-color: #ce752c;
 }
@@ -487,7 +493,7 @@ hr:not([size]) {
 
 }
 
-i {
+.footer-icon {
     color: rgb(185, 27, 6);
 }
 
