@@ -43,6 +43,7 @@ hr {
 .bg-light--moje {
     background-color: rgb(249 251 252);
 }
+
 h2 {
     color: rgb(185, 27, 6);
     font-family: 'Lobster', sans-serif;
@@ -50,6 +51,7 @@ h2 {
     font-weight: 800;
     /* background-color: rgba(255, 255, 255, 0.541); */
 }
+
 
 #smaller-text-navbar {
     font-size: medium;
@@ -59,6 +61,13 @@ h2 {
     font-family: 'Fredericka the Great', cursive;
     font-size: 120%;
     background-color: white;
+}
+
+
+@media(max-width: 992px) {
+.nav-text-full {
+  display: none;
+}
 }
 
 
