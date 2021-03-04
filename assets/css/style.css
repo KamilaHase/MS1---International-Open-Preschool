@@ -64,11 +64,6 @@ h2 {
 }
 
 
-@media(max-width: 992px) {
-.nav-text-full {
-  display: none;
-}
-}
 
 
 
@@ -140,8 +135,8 @@ h2 {
 .of-heading {
   background: radial-gradient(
     ellipse at center,
-    rgb(92, 119, 136) 0%,
-    rgba(92, 119, 136, 1) 70%,
+    rgb(29, 72, 75) 0%,
+    rgba(29, 72, 75, 1) 70%,
     rgba(39, 50, 57, 0) 70.3%
     );
     height: 100%;
@@ -150,7 +145,7 @@ h2 {
 
 .of-heading h4 {
     font-size: 25px;
-    color: white;   
+    color: white;  
     height: 100%;
     line-height: 1.42;
     padding: 0;
@@ -212,8 +207,8 @@ h2 {
 .about-heading {
   background: radial-gradient(
     ellipse at center,
-    rgb(253, 117, 80) 0%,
-    rgba(253, 117, 80, 1) 70%,
+    rgb(212, 52, 7) 0%,
+    rgba(212, 52, 7, 1) 70%,
     rgba(160, 36, 2, 0) 70.3%
     );
     height: 100%;
@@ -285,23 +280,23 @@ h2 {
 .premises-heading {
   background: radial-gradient(
     ellipse at center,
-    rgb(173, 194, 203) 0%,
-    rgba(173, 194, 203, 1) 70%,
-    rgba(61, 86, 97, 0) 70.3%
+    rgb(88, 59, 86) 0%,
+    rgba(88, 59, 86, 1) 70%,
+    rgba(160, 36, 2, 0) 70.3%
     );
     height: 100%;
     width: 100%;
 }
 
+
 .premises-heading h4 {
-    font-size: 31.3px;
+    font-size: 33px;
     color: white;   
     height: 100%;
-    line-height: 1.7;
+    line-height: 0.7;
     padding: 0;
-    text-align: center;    
+    
 }
-
 
 .premises-heading::before {
     content: "";
@@ -506,5 +501,35 @@ hr:not([size]) {
 .footer-icon {
     color: rgba(185, 27, 6, 0.384);
     text-align: bottom;
+}
+
+
+/*-------------------------Media queries---*/
+
+@media(max-width: 992px) {
+.nav-text-full {
+  display: none;
+}
+
+.opaque-bg-sm {
+    background-color: rgb(0, 0, 0, 0.7);
+    position: relative;
+}
+}
+
+
+
+@media(min-width: 992px) {
+.wrap-welcome-text {
+    display: none;
+}
+
+
+
+
+@media(max-width: 400px) {
+body {
+    font-size: 50%;
+}
 }
 
