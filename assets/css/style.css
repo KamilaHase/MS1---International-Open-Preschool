@@ -27,23 +27,6 @@ h3 {
     font-family: 'Fredericka the Great', cursive;
 }
 
-/*-------------------------NAVBAR---*/
-
-h2 {
-    /*color: #DD3805; */
-    color: rgb(185, 27, 6);
-    font-family: 'Lobster', sans-serif;
-    font-size: 160%;
-    font-weight: 800;
-    background-color: white;
-    
-    
-}
-
-#smaller-text-navbar {
-    font-size: medium;
-}
-
 .heading {
      font-family: 'Fredericka the Great', cursive;
      font-weight: 400;
@@ -51,11 +34,34 @@ h2 {
 
 }
 
-#navbarText {
-    font-family: 'Fredericka the Great', cursive;
-    background-color: white;
-    color: #ce752c;
+hr {
+    line-height: 0.5;
+  }  
+
+/*-------------------------NAVBAR---*/
+
+.bg-light--moje {
+    background-color: rgb(249 251 252);
 }
+h2 {
+    color: rgb(185, 27, 6);
+    font-family: 'Lobster', sans-serif;
+    font-size: 160%;
+    font-weight: 800;
+    /* background-color: rgba(255, 255, 255, 0.541); */
+}
+
+#smaller-text-navbar {
+    font-size: medium;
+}
+
+.navbarText {
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 120%;
+    background-color: white;
+}
+
+
 
 /*-------------------------WELCOME---*/
 
@@ -480,11 +486,6 @@ hr:not([size]) {
 }
 
 
-.footer-text {
-    color: rgb(185, 27, 6); 
-    font-family: 'Lobster', sans-serif;  
-    background-color: white;
-}
 
 .footer {
    text-align: center;
@@ -494,6 +495,7 @@ hr:not([size]) {
 }
 
 .footer-icon {
-    color: rgb(185, 27, 6);
+    color: rgba(185, 27, 6, 0.384);
+    text-align: bottom;
 }
 
