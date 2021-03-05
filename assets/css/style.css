@@ -358,8 +358,6 @@ h2 {
 
 .coloured-icon i {
     color: #dc3545c2;
-    font-size: 300%;
-    background-color: white;
 }
 
 .moje-barva {
@@ -509,6 +507,7 @@ hr:not([size]) {
     display: none;
 }
 
+
 @media(min-width: 1175px) {
 .ir-event {
     height: 367px;
@@ -517,4 +516,10 @@ hr:not([size]) {
 .reg-event {
     height:370px;
 }
+}
+
+
+@media(max-width: 992px) {
+.coloured-icon i {
+    display: none;
 }
