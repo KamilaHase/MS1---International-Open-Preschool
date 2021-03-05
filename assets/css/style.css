@@ -78,7 +78,7 @@ h2 {
 .welcome {
     height: 100vh;
 
-    background: url(../images/HaseKR-toys-blur.jpg) center center fixed;
+    background: url(../images/HaseKR-toys-blur-sm.jpg) center center fixed;
     ) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -116,21 +116,16 @@ h2 {
 
 
 /*------------------------CIRCLES WITH TEXT adapted from https://css-tricks.com/using-css-to-set-text-inside-a-circle/ */
-.wrapper-vh {
-    height: 60vh;
-    
-}
-
-/*----circle Oppna Forskola--*/
 
 
 .container-wrapper {
-  height: 180px;
+  height: 190px;
   position: relative;
-  width: 180px;
+  width: 190px;
   margin-top: 20px;
 }
 
+/*----circle Oppna Forskola--*/
 
 .of-heading {
   background: radial-gradient(
@@ -150,7 +145,7 @@ h2 {
     line-height: 1.42;
     padding: 0;
     text-align: center;
-    text-shadow: 0.5px 0.5px 1px rgba(0, 0, 0, 0.3);
+    position: relative;
 }
 
 .of-heading::before {
@@ -197,12 +192,6 @@ h2 {
 
 /*----circle About--*/
 
-.container-wrapper {
-  height: 190px;
-  position: relative;
-  width: 190px;
-  margin-top: 20px;
-}
 
 .about-heading {
   background: radial-gradient(
@@ -222,6 +211,7 @@ h2 {
     line-height: 1.42;
     padding: 0;
     text-align: center;
+    position: relative;
     
 }
 
@@ -269,13 +259,6 @@ h2 {
 
 /*----circle Premises--*/
 
-.container-wrapper {
-  margin-top: 20px;
-  height: 190px;
-  position: relative;
-  width: 190px;
-  margin-top: 20px;
-}
 
 .premises-heading {
   background: radial-gradient(
@@ -295,6 +278,7 @@ h2 {
     height: 100%;
     line-height: 0.7;
     padding: 0;
+    position: relative;
     
 }
 
@@ -347,15 +331,16 @@ h2 {
 
 .heading-regular-event {
     font-family: 'Fredericka the Great', cursive;
-    color:#FD7550;
+    color:rgb(212, 52, 7);
     font-size: 18px;
     font-weight: bold;
 }
 
 .text-event {
     text-transform: uppercase;
-    color:#FD7550;
+    color:rgb(240, 102, 64);
 }
+
 
 .heading-irregular-event {
     font-family: 'Fredericka the Great', cursive;
@@ -372,7 +357,7 @@ h2 {
 /*-------------------------GETTING AROUND---*/
 
 .coloured-icon i {
-    color: #326792;
+    color: #dc3545c2;
     font-size: 300%;
     background-color: white;
 }
@@ -524,12 +509,12 @@ hr:not([size]) {
     display: none;
 }
 
-
-
-
-@media(max-width: 400px) {
-body {
-    font-size: 50%;
-}
+@media(min-width: 1175px) {
+.ir-event {
+    height: 367px;
 }
 
+.reg-event {
+    height:370px;
+}
+}
