@@ -360,6 +360,10 @@ h2 {
     color: #dc3545c2;
 }
 
+.link-text {
+    font-family: 'Fredericka the Great', cursive;
+}
+
 .moje-barva {
     background-color: #ce752c;
 }
