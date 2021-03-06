@@ -360,10 +360,6 @@ h2 {
     color: #dc3545c2;
 }
 
-.link-text {
-    font-family: 'Fredericka the Great', cursive;
-}
-
 .moje-barva {
     background-color: #ce752c;
 }
@@ -459,6 +455,7 @@ h2 {
 
 /*-------------------------CONTACT---*/
 
+
 .divider-line {
     line-height: 0.2;
 }
@@ -482,6 +479,7 @@ hr:not([size]) {
    text-align: center;
    align-items: center;
    justify-content: center;
+   height: 16vh;
 
 }
 
