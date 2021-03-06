@@ -57,10 +57,9 @@ h2 {
     font-size: medium;
 }
 
-.navbarText {
+.navbar-text-fred {
     font-family: 'Fredericka the Great', cursive;
-    font-size: 120%;
-    background-color: white;
+    font-size: 110%;
 }
 
 

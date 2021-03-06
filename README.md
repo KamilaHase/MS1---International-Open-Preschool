@@ -35,6 +35,7 @@ In addition, you may also use this section to discuss plans for additional featu
 ### Features Left to Implement
 
 - Contact page - the validation could be more playfull such as "Looks good" / "Please provide a valid email", did´t have time for that
+- Contact page - viewer sees whole screen when opening page, failed to put pictures to the left side of the text
 
 ## Technologies Used
 
