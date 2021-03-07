@@ -468,7 +468,7 @@ hr:not([size]) {
    text-align: center;
    align-items: center;
    justify-content: center;
-   height: 16vh;    
+    
     left: 0;
     right: 0;
  
@@ -520,4 +520,11 @@ position: absolute;
 @media(max-width: 992px) {
 .coloured-icon i {
     display: none;
+}
+}
+
+@media(min-width: 576px) {
+.wrap-navbar-text {
+   display: none; 
+}
 }
