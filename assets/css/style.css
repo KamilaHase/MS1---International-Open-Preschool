@@ -445,6 +445,11 @@ hr {
 
 /*-------------------------CONTACT---*/
 
+.heading-address {
+   font-family: 'Fredericka the Great', cursive;
+    color: #1F4660;
+    font-weight: bold; 
+}
 
 .divider-line {
     line-height: 0.2;
@@ -459,7 +464,7 @@ hr:not([size]) {
 }
 
 #modal-popup-label {
-    text-align: center; !important
+    text-align: center!important;
 }
 
 /*-------------------------FOOTER---*/
@@ -520,11 +525,5 @@ position: absolute;
 @media(max-width: 992px) {
 .coloured-icon i {
     display: none;
-}
-}
-
-@media(min-width: 576px) {
-.wrap-navbar-text {
-   display: none; 
 }
 }
