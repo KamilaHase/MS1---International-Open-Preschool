@@ -22,7 +22,6 @@
 
 <body>
 <header>
-       <hr class="bg-transparent">
         <nav class="navbar navbar-expand-lg navbar-light bg-white p-0">
             <div class="container-fluid">
                 <a class="navbar-brand" href="index.html"><h2>International Open Preschool <span class="nav-text-full">- Internationella Öppna Förskola</span><span id="smaller-text-navbar"><br>Gothenburg, Sweden</span></h2></a>
@@ -34,7 +33,7 @@
                     <div class="collapse navbar-collapse" id="navbar-text">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                            <a class="nav-link active navbar-text-fred" aria-current="page" href="index.html">Home</a>
+                            <a class="nav-link navbar-text-fred" aria-current="page" href="index.html">Home</a>
                             </li>
                             <li class="nav-item">
                             <a class="nav-link navbar-text-fred" href="events.html">Events</a>
@@ -43,7 +42,7 @@
                             <a class="nav-link navbar-text-fred" href="getting-around.html">Getting around</a>
                             </li>
                             <li class="nav-item navbar-text-fred">
-                            <a class="nav-link navbar-text-fred" href="contact.html">Contact</a>
+                            <a class="nav-link navbar-text-fred active" href="contact.html">Contact</a>
                             </li>
                         </ul>
                     </div>
@@ -74,34 +73,32 @@
                 </select>
                 <hr class="bg-transparent">
             <textarea rows="4" name="query" id="textarea-query" class="form-control border-danger border-top-0 border-end-0" style="margin-top: 0px; margin-bottom: 0px; height: 29px;" placeholder="What is on your mind?" aria-label="What is on your mind?" required=""></textarea>
+            
             <div class="d-grid gap-2 d-md-flex justify-content-md-end">
                 <button type="button" class="btn btn-danger text-center mt-1" data-bs-toggle="modal" data-bs-target="#modal-popup">Submit</button> 
             </div>
-            <div class="modal fade bg-danger" id="modal-popup" tabindex="-1" aria-labelledby="modal-popup-label" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="modal-popup-label">Thank you!</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    We will get back to you as soon as possible.
-                </div>
-                <div class="modal-footer">
-                </div>
-                </div>
-            </div>
-            </div>
-        </div>
+            <div class="modal fade" id="modal-popup" tabindex="-1" aria-labelledby="modal-popup-label" aria-hidden="true">
+                <div class="modal-dialog">
+                                <div class="modal-content bg-danger text-white text-center">
+                                    <div class="modal-header">
+                                        <h5 class="modal-title text-center" id="modal-popup-label">Thank you!</h5>
+                                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                    </div>
+                                    <div class="modal-body">
+                                        We will get back to you as soon as possible.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
     </form>
 </section>
 
-<footer class="footer bg-white">
+<footer class="footer bg-white mb-0 pb-0" id="footer-to-bottom">
+    <div class="container-fluid">
     <div class="row">
-        
         <div class="col-12">
             <ul class="list-inline">
-                
                 <li class="list-inline-item">
                     <a target="_blank" href="https://www.facebook.com">
                             <i class="fab fa-facebook-f footer-icon fa-2x mt-3" aria-hidden="true"></i>
@@ -122,9 +119,8 @@
                 </li>
             </ul>
             <h6>Copyright 2021: <a href="https://www.goteborg.se" class="link-secondary" target="_blank">Göteborg Stad</a></h6>
-            
-            
         </div>
+    </div>
     </div>
 </footer>
 

@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Cabin+Sketch:wght@400;700&family=Fredericka+the+Great&family=Open+Sans:wght@300;400;600;700&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&family=Lobster&family=Open+Sans:wght@300&display=swap');
+
 
 /*font-family: 'Cabin Sketch', cursive;
 font-family: 'Open Sans', sans-serif;
@@ -8,40 +9,25 @@ font-family: 'Lobster', cursive;
 
 */
 
-
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
 
 body {
     font-family: 'Open Sans', sans-serif;
     font-weight: bold;
     
 
-    background: url(../images/confetti-1637197-tr.jpg) center center fixed;
+    background: url(../images/confetti-1637197-tr-darker.jpg) center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 
-}
-
-h3 {
-    font-family: 'Fredericka the Great', cursive;
-}
-
-.heading {
-     font-family: 'Fredericka the Great', cursive;
-     font-weight: 400;
-     font-size: 40px;
-
-}
-
-hr {
-    line-height: 0.5;
-  }  
-
-/*-------------------------NAVBAR---*/
-
-.bg-light--moje {
-    background-color: rgb(249 251 252);
+    min-height: 100%;
+   
 }
 
 h2 {
@@ -52,6 +38,21 @@ h2 {
     /* background-color: rgba(255, 255, 255, 0.541); */
 }
 
+h3 {
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.heading {
+     font-family: 'Fredericka the Great', cursive;
+     font-weight: 400;
+     font-size: 40px;
+}
+
+hr {
+    line-height: 0.5;
+  }  
+
+/*-------------------------NAVBAR---*/
 
 #smaller-text-navbar {
     font-size: medium;
@@ -61,10 +62,6 @@ h2 {
     font-family: 'Fredericka the Great', cursive;
     font-size: 110%;
 }
-
-
-
-
 
 /*-------------------------WELCOME---*/
 
@@ -77,7 +74,7 @@ h2 {
 .welcome {
     height: 100vh;
 
-    background: url(../images/HaseKR-toys-blur-sm.jpg) center center fixed;
+    background: url(../images/HaseKR-toys-blur-sm.jpg) center fixed;
     ) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -85,14 +82,8 @@ h2 {
     background-size: cover;
 
     display: flex;
-    
-
     position: relative;
 }
-
-
-
-
 
 .welcome-heading {
     font-family: 'Fredericka the Great', cursive;
@@ -467,24 +458,24 @@ hr:not([size]) {
     height: 0.2px;
 }
 
-/*-------------------------FOOTER---*/
-.footer {
-    position: sticky;
+#modal-popup-label {
+    text-align: center; !important
 }
 
-
+/*-------------------------FOOTER---*/
 
 .footer {
    text-align: center;
    align-items: center;
    justify-content: center;
-   height: 16vh;
-
+   height: 16vh;    
+    left: 0;
+    right: 0;
+ 
 }
 
 .footer-icon {
     color: rgba(185, 27, 6, 0.384);
-    text-align: bottom;
 }
 
 
@@ -498,6 +489,7 @@ hr:not([size]) {
 .opaque-bg-sm {
     background-color: rgb(0, 0, 0, 0.7);
     position: relative;
+    height: 100vh;
 }
 }
 
@@ -506,6 +498,11 @@ hr:not([size]) {
 @media(min-width: 992px) {
 .wrap-welcome-text {
     display: none;
+}
+
+#footer-to-bottom {
+position: absolute;
+  bottom: 0;
 }
 
 

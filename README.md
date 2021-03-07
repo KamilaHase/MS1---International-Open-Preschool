@@ -65,6 +65,14 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+####Bug problems
+
+- Scroll to left - I am having a lot of problems getting rid of the horizontal scroll space. I have contacted tutors but all advice so far failed
+- Problems with circles and general responsiveness
+- problems with loading class
+. problems with JS
+- problems with footer not wanting to be at the bottom
+
 ## Deployment
 
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -82,7 +90,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 
-### Content
+## Content
 
 **HOME    EVENTS 	    GOTHENBURG WITH KIDS	    CONTACT**
 
