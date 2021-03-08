@@ -229,6 +229,13 @@ h3 {
 /*----circle Premises--*/
 
 .premises-heading {
+    background: -o-radial-gradient(
+    center,
+    ellipse,
+    rgb(88, 59, 86) 0%,
+    rgba(88, 59, 86, 1) 70%,
+    rgba(160, 36, 2, 0) 70.3%
+    );
   background: radial-gradient(
     ellipse at center,
     rgb(88, 59, 86) 0%,
