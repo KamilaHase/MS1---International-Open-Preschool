@@ -368,6 +368,10 @@ h3 {
 #footer-to-bottom {
     bottom: 0;
 }
+
+#footer-to-bottom-contact {
+    bottom: 0;
+}
 }
 
 @media(min-width: 992px) {
