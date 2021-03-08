@@ -68,44 +68,63 @@ This website and place are fictional although I personally believe that if it wo
 ### Existing Features
 - all buttons and links were styled using Bootstrap button/links classes
 - **Navigation** - each page starts with the logo of International Open Preschool that serves also as a "go to home page" link. The navigation was implemented by Bootstrap navbar classes with included toggler that is visible on small device screens. The navigation menu has already implemented hover functions and "active" functions from Bootstrap.
-- **Footer** - each page ends with footer where there are implemented links to social media website of Internation Open Forskola.
-- **Home* 
+- **Footer** 
+    - Each page ends with footer where there are implemented links to social media website of Internation Open Forskola.
+    - Copyright information and link to Goteborg Stad - Gothenburg municipality who is the organizor of all öppna forskolas in town.
+
+- **Home** 
     - Hero image that is meant to create warm, fun and welcoming athmosphere, bellow are circles with headings and main description - the idea is to provide children related but yet a bit smooth design that is targeted at parents-readers
     - Each topic of "circles" section allows the viewer to provide more information if required by clicking on a *button* - to Events, to Getting around and to Contact. Each circles leads to one page in the provided order.
 - **Events**
     - Two sections (regular and irregular events) are devided by colors and space in order to provide clear orientation which events repeat, which are only once.
-    - some events require to book a place, therefore a submit button from Bootstrap is added
-- **Getting around** - provides simple links to other places to visit in town. 
-- **Contact** - provides a form for conversation purposes. Viewer adds their contact information (see below) and submits, a modal popup has been implemented to inform viewer the data were obtained.
-
-
-
-#### Pages and their design
-- **Home page:** 
-- **Events:** 
-- **Getting around:** A simple page intentionally doesn´t bring too much of design surprise, so that viewer can easily click on information they are looking for and find information under the relevant link. Icons support the content.
-- **Contact:** Address as the first accessible information as people would be in need to find that quickly. Form below to provide a communication tool. Red lines are cut intentionally to make it look "unusual". Cards with direct contacts and profile "nickname" images of toys instead of people in order to protect identity and also to trigger some fun experience for viewer.
-- **Footer:** Provides simple clear links to social media as well as Copyright and link to Goteborg Stad - Gothenburg municipality who is the organizor of all öppna forskolas in town.
-
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+    - Some events require to book a place, therefore a submit button from Bootstrap is added that links to Contact page
+- **Getting around** 
+    - A simple page intentionally doesn´t bring too much of design surprise, so that viewer can easily click on information they are looking for and find information under the relevant link. Icons support the content.
+    - Provides simple links to other places to visit in town. 
+- **Contact** 
+    - Address as the first accessible information as people would be in need to find that quickly. Form below to provide a communication tool. Red lines are cut intentionally to make it look "unusual". Cards with direct contacts and profile "nickname" images of toys instead of people in order to protect identity and also to trigger some fun experience for viewer.
+    - Provides a form for conversation purposes. Viewer adds their contact information (see below) and submits, a modal popup has been implemented to inform viewer the data were obtained.
 
 ### Features Left to Implement
-
-- Contact page - the validation could be more playfull such as "Looks good" / "Please provide a valid email", did´t have time for that
-- Contact page - viewer sees whole screen when opening page, failed to put pictures to the left side of the text
+- Getting around - could be connected to Google Calendar
+- Contact page - the validation could be more playfull such as "Looks good" / "Please provide a valid email"
+- Contact page - viewer would see the whole screen when opening page, failed to put pictures to the left side of the text
+- in general more moving features could be implemented to bring more playful feeling
 
 ## Technologies Used
-
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
-
-- [JQuery](https://jquery.com)
-    - The project uses **JQuery** to simplify DOM manipulation.
+(credit: https://github.com/Code-Institute-Solutions/SampleREADME)
+- **Bootstrap v5.0** - Bootstrap was used to assist with the responsiveness and styling of the website.
+- **Google Fonts** - Google fonts were used to import all fonts into the style.css file which is used on all pages throughout the project.
+- **Font Awesome** - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
+- **jQuery** - came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+- **Git** - used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+- **GitHub** - used to store the projects code after being pushed from Git.
+- **GitPod** - main workspace
+- **Painting** - was used to cropping images
+- **MS Office Power Point** - used for creatin wireframes
 
 
 ## Testing
+The website was opened in Chrome, Mozzilla Firefox, Safari and Microsoft Edge to test all features and their functions.
+
+#### Website has been tested and corrected by: 
+- https://www.freeformatter.com/html-formatter.html
+- https://validator.w3.org/#validate_by_input
+    - Events - <section class="events-intro"> lacks heading - this is on purpose
+    - Getting around - <section class="getting-around-intro" - this is on purpose
+                     - <section class="geting-around"> - this is on purpose
+- https://jigsaw.w3.org/css-validator/validator
+    - problems shown in the Circles area - shape-margin and shape-outside does not exist. This part of code has been copied (see link below) therefore I will keep it as it is.
+- http://techsini.com/multi-mockup/index.php used for creating and checking mockups
+
+
+#### Testing client stories:
+- Most common path starts at Home page and from there goes to other pages upon personal interest.
+- As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
+
+No matter what page the new visitor lands on, they can easily find and use the navigation bar.
+The logo image always leads back to the home page (the starting place for most client stories).
+The home page call to action button leads the client through the gallery.
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
@@ -125,17 +144,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-####Website has been tested and corrected by: 
-- https://www.freeformatter.com/html-formatter.html
-- https://validator.w3.org/#validate_by_input
-    - Events - <section class="events-intro"> lacks heading - this is on purpose
-    - Getting around - <section class="getting-around-intro" - this is on purpose
-                     - <section class="geting-around"> - this is on purpose
-- https://jigsaw.w3.org/css-validator/validator
-    - problems shown in the Circles area - shape-margin and shape-outside does not exist. This part of code has been copied (see link below) therefore I will keep it as it is.
--
 
-####Bug problems
+
+#### Bug problems
 
 - Scroll to left - I am having a lot of problems getting rid of the horizontal scroll space. I have contacted tutors but all advice so far failed
 - Problems with circles and general responsiveness
