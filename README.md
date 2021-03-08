@@ -13,22 +13,35 @@ This website and place are fictional although I personally believe that if it wo
  
 ## UX
 ### User stories:
-  - Expected first time visitors of page:
+  - Expected goals of first time page visitors:
     1. English speaking parents who just recently moved to Gothenburg and are trying to get to know some people-other parents.
     2. English speaking parents who are looking for a place where they can speak English with other parents and/or provide a place for their kids to find other English speaking children.
-    2. Parents who are looking for a convenient place where to go with their kids during winter.
-    3. Parents who want to find out more information about what to do in Gothenburg with children, they are interested in Events.
-    4. Parents who are looking for some specific help and want to reach out to us.
-    5. Other children professionals who want to give advice to parents, therefore they visit the web as a part of their research for giving advice.
+    2. Parents who are looking for a convenient place where to go with their kids, mostly during winter time.
+    3. Parents who want to find out more information about what to do in Gothenburg with children, they are interested mainly in Events page.
+    4. Parents who are looking for some specific help and want to reach out to us, e.g. need a specific help with finding a preschool, don´t know where and who to ask.
+    5. Other children professionals who work with parents, therefore they visit the web as a part of their research for giving advice.
 
-  - Expected second time visitors of page:
+  - Expected goals of second (and more) time page visitors:
     1. Trying to find the address
-    2. Going to book their attendance at an event
-    3. Need to verify information
+    2. Going to check the Event page and/or book their attendance at an event
+    3. Need to verify information such where is a meeting, what are the facilities, what are the links to other place to visit around town
     4. Going to send in a query
 
-**First Time Visitor Goals** - I am a mother who just moved to Gothenburg and I am looking for a place to go with my toddler during the winter.
- 
+### Design of the website:
+- The page uses three fonts from Google Fonts: 
+  - 'Lobster' - for main title International Open Preschool, there is no other place where it is repeated therefore it serves as a logo
+  - 'Fredericka the Great' - most headings
+  - 'Open Sans' - all other text. To improve visibility I mainly use font in bold.
+
+- Color theme is based on the background image where there is orange, blue, grey and violet color. 
+  - the orange color was not that well visible so I used either a darked version of orange or replaced it by red.
+  - For the main title-logo I used rgb(185, 27, 6). It is rather red color but is well visible and is on purpose different to the other colors although still in balance.
+  - Orange colors are variants of: rgb(212, 52, 7).
+  - Blue colors are variants of: rgb(31, 70, 96).
+  - Red color are variants of: rgba(220, 53, 69) and Bootstrap "danger" theme.
+  - Grey color is Bootstrap "light" theme.
+  
+
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
