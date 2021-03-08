@@ -1,3 +1,5 @@
+![Mockup](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=d5d5411b-3896-4ae4-a755-f083b8805b29)
+
 # International Open Preschool - International Öppna Förskola
 
 In Sweden, there is a state funded institution called "öppna förskola" which is provided for parents on parental leave as an indoor space to go 
@@ -48,13 +50,6 @@ This website and place are fictional although I personally believe that if it wo
 - The large hero background image has been chosen to bring warm, welcoming athmosphere where there is a place for fun and games for different ages of children.
 - Two pictures instead of profile are meant to point out a bit of humor and "light" athmosphere the Open Preschool has meanwhile they are meant to provide a bit of characteristics (teddy bear with coffee, a robot)
 
-#### Pages and their design
-- **Home page:** Hero image that is meant to create warm, fun and welcoming athmosphere, bellow are circles with headings and main description - the idea is to provide children related but yet a bit smooth design that is targeted at parents-readers
-- **Events:** Two sections (regular and irregular events) are devided by colors and space in order to provide clear orientation which events repeat, which are only once.
-- **Getting around:** A simple page intentionally doesn´t bring too much of design surprise, so that viewer can easily click on information they are looking for and find information under the relevant link. Icons support the content.
-- **Contact:** Address as the first accessible information as people would be in need to find that quickly. Form below to provide a communication tool. Red lines are cut intentionally to make it look "unusual". Cards with direct contacts and profile "nickname" images of toys instead of people in order to protect identity and also to trigger some fun experience for viewer.
-- **Footer:** Provides simple clear links to social media as well as Copyright and link to Goteborg Stad - Gothenburg municipality who is the organizor of all öppna forskolas in town.
-
 #### Wireframes
 - [Home Page 1](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=3ad46968-1faf-4342-a8af-77714c2f094a)
 - [Home Page 2](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=c1fef373-a22e-46b1-92a3-eda3f8914075)
@@ -62,14 +57,36 @@ This website and place are fictional although I personally believe that if it wo
 - [Getting around](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=f0d0d1ac-f9f8-4156-8ffa-65c080871d9d)
 - [Contact](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=1fd15815-35e9-4eb3-a224-a9dfce4e7e48)
 
+#### Mockups
+- [Home](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=d5d5411b-3896-4ae4-a755-f083b8805b29)
+- [Events](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=47b1e119-2554-475f-ae5c-d2f8cb56f80c)
+- [Getting around](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=8a39e816-4eb1-4a6a-b02a-39abb5a3a7e5)
+- [Contact](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=d0ec957c-94ed-4e6c-b532-0a3e8342bb01)
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
- 
 ### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
+- all buttons and links were styled using Bootstrap button/links classes
+- **Navigation** - each page starts with the logo of International Open Preschool that serves also as a "go to home page" link. The navigation was implemented by Bootstrap navbar classes with included toggler that is visible on small device screens. The navigation menu has already implemented hover functions and "active" functions from Bootstrap.
+- **Footer** - each page ends with footer where there are implemented links to social media website of Internation Open Forskola.
+- **Home* 
+    - Hero image that is meant to create warm, fun and welcoming athmosphere, bellow are circles with headings and main description - the idea is to provide children related but yet a bit smooth design that is targeted at parents-readers
+    - Each topic of "circles" section allows the viewer to provide more information if required by clicking on a *button* - to Events, to Getting around and to Contact. Each circles leads to one page in the provided order.
+- **Events**
+    - Two sections (regular and irregular events) are devided by colors and space in order to provide clear orientation which events repeat, which are only once.
+    - some events require to book a place, therefore a submit button from Bootstrap is added
+- **Getting around** - provides simple links to other places to visit in town. 
+- **Contact** - provides a form for conversation purposes. Viewer adds their contact information (see below) and submits, a modal popup has been implemented to inform viewer the data were obtained.
+
+
+
+#### Pages and their design
+- **Home page:** 
+- **Events:** 
+- **Getting around:** A simple page intentionally doesn´t bring too much of design surprise, so that viewer can easily click on information they are looking for and find information under the relevant link. Icons support the content.
+- **Contact:** Address as the first accessible information as people would be in need to find that quickly. Form below to provide a communication tool. Red lines are cut intentionally to make it look "unusual". Cards with direct contacts and profile "nickname" images of toys instead of people in order to protect identity and also to trigger some fun experience for viewer.
+- **Footer:** Provides simple clear links to social media as well as Copyright and link to Goteborg Stad - Gothenburg municipality who is the organizor of all öppna forskolas in town.
+
 
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
