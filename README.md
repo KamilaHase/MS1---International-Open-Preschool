@@ -28,11 +28,13 @@ This website and place are fictional although I personally believe that if it wo
     4. Going to send in a query
 
 ### Design of the website:
-- The page uses three fonts from Google Fonts: 
+#### Typography
+- The page uses three fonts from [Google Fonts](https://fonts.google.com/ "Google Fonts"):
   - 'Lobster' - for main title International Open Preschool, there is no other place where it is repeated therefore it serves as a logo
   - 'Fredericka the Great' - most headings
   - 'Open Sans' - all other text. To improve visibility I mainly use font in bold.
 
+#### Colors
 - Color theme is based on the background image where there is orange, blue, grey and violet color. 
   - the orange color was not that well visible so I used either a darked version of orange or replaced it by red.
   - For the main title-logo I used rgb(185, 27, 6). It is rather red color but is well visible and is on purpose different to the other colors although still in balance.
@@ -40,14 +42,26 @@ This website and place are fictional although I personally believe that if it wo
   - Blue colors are variants of: rgb(31, 70, 96).
   - Red color are variants of: rgba(220, 53, 69) and Bootstrap "danger" theme.
   - Grey color is Bootstrap "light" theme.
-  
 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+#### Imagery
+- The main background image is setting the overall look for the whole website and creates a visual connection.
+- The large hero background image has been chosen to bring warm, welcoming athmosphere where there is a place for fun and games for different ages of children.
+- Two pictures instead of profile are meant to point out a bit of humor and "light" athmosphere the Open Preschool has meanwhile they are meant to provide a bit of characteristics (teddy bear with coffee, a robot)
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-- As a user type, I want to perform an action, so that I can achieve a goal.
+#### Pages and their design
+- **Home page:** Hero image that is meant to create warm, fun and welcoming athmosphere, bellow are circles with headings and main description - the idea is to provide children related but yet a bit smooth design that is targeted at parents-readers
+- **Events:** Two sections (regular and irregular events) are devided by colors and space in order to provide clear orientation which events repeat, which are only once.
+- **Getting around:** A simple page intentionally doesn´t bring too much of design surprise, so that viewer can easily click on information they are looking for and find information under the relevant link. Icons support the content.
+- **Contact:** Address as the first accessible information as people would be in need to find that quickly. Form below to provide a communication tool. Red lines are cut intentionally to make it look "unusual". Cards with direct contacts and profile "nickname" images of toys instead of people in order to protect identity and also to trigger some fun experience for viewer.
+- **Footer:** Provides simple clear links to social media as well as Copyright and link to Goteborg Stad - Gothenburg municipality who is the organizor of all öppna forskolas in town.
 
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+#### Wireframes
+- [Home Page 1](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=3ad46968-1faf-4342-a8af-77714c2f094a)
+- [Home Page 2](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=c1fef373-a22e-46b1-92a3-eda3f8914075)
+- [Events](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=9d1a80ee-83fa-4082-9d2f-0ca603f492f9)
+- [Getting around](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=f0d0d1ac-f9f8-4156-8ffa-65c080871d9d)
+- [Contact](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=1fd15815-35e9-4eb3-a224-a9dfce4e7e48)
+
 
 ## Features
 
