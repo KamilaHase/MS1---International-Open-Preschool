@@ -372,7 +372,8 @@ h3 {
 }
 
 #footer-to-bottom {
-  bottom: 0;
+    position: absolute;
+    bottom: 0;
 }
 }
 
@@ -382,3 +383,5 @@ h3 {
     display: none;
 }
 }
+
+
