@@ -42,6 +42,7 @@ h3 {
      font-size: 40px;
 }
 
+
 /*-------------------------NAVBAR---*/
 
 #smaller-text-navbar {
@@ -85,9 +86,6 @@ h3 {
 }
 
 /*------------------------CIRCLES WITH TEXT adapted from https://css-tricks.com/using-css-to-set-text-inside-a-circle/ */
-.of-text {
-    text-align: justify;
-}
 
 .container-wrapper {
   height: 190px;
@@ -324,6 +322,7 @@ h3 {
     color: #dc3545c2;
 }
 
+
 /*-------------------------CONTACT---*/
 
 .heading-address {
@@ -373,7 +372,6 @@ h3 {
 }
 
 #footer-to-bottom {
-position: absolute;
   bottom: 0;
 }
 }

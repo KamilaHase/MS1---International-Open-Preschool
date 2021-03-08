@@ -12,6 +12,22 @@ The main goal is to present a nice indoor playground for English speaking parent
 This website and place are fictional although I personally believe that if it would existed, there would be a high demand for its services in Gothenburg.
  
 ## UX
+### User stories:
+  - Expected first time visitors of page:
+    1. English speaking parents who just recently moved to Gothenburg and are trying to get to know some people-other parents.
+    2. English speaking parents who are looking for a place where they can speak English with other parents and/or provide a place for their kids to find other English speaking children.
+    2. Parents who are looking for a convenient place where to go with their kids during winter.
+    3. Parents who want to find out more information about what to do in Gothenburg with children, they are interested in Events.
+    4. Parents who are looking for some specific help and want to reach out to us.
+    5. Other children professionals who want to give advice to parents, therefore they visit the web as a part of their research for giving advice.
+
+  - Expected second time visitors of page:
+    1. Trying to find the address
+    2. Going to book their attendance at an event
+    3. Need to verify information
+    4. Going to send in a query
+
+**First Time Visitor Goals** - I am a mother who just moved to Gothenburg and I am looking for a place to go with my toddler during the winter.
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -65,12 +81,22 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
+####Website has been tested and corrected by: 
+- https://www.freeformatter.com/html-formatter.html
+- https://validator.w3.org/#validate_by_input
+    - Events - <section class="events-intro"> lacks heading - this is on purpose
+    - Getting around - <section class="getting-around-intro" - this is on purpose
+                     - <section class="geting-around"> - this is on purpose
+- https://jigsaw.w3.org/css-validator/validator
+    - problems shown in the Circles area - shape-margin and shape-outside does not exist. This part of code has been copied (see link below) therefore I will keep it as it is.
+-
+
 ####Bug problems
 
 - Scroll to left - I am having a lot of problems getting rid of the horizontal scroll space. I have contacted tutors but all advice so far failed
 - Problems with circles and general responsiveness
 - problems with loading class
-. problems with JS
+- problems with JS
 - problems with footer not wanting to be at the bottom
 
 ## Deployment
@@ -97,122 +123,92 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### INTERNATIONAL OPEN PRESCHOOL - INTERNATIONAL ÖPPNA FÖRSKOLA 
 #### Gothenburg, Sweden
 
-*Everyone is welcome to come and play!*
-
+Wednesdays 14:00 -17:00 & Fridays 9:00 - 12:00
 Is English your preferred language and do you have children aged 0-7 years? You are welcome at our International open preschool - a free meeting place for families and their children.
  
 **HOME**
 
-##### Öppna Förskolas in Sweden
-You may have heard of the öppna förskola institutions in Sweden - 
-an equivalent to a preschool where children are accompanied by their parents 
-(and no responsibility is taken from the staff) but they can fully enjoy the large premises full of toys. 
-Moreover, you may check our Event section to see what other activities we offer.
-
-As a parent you get the opportunity to make new, mainly international contacts, 
-receive information about life in Gothenburg, Sweden or get support in the parental role in a new country.
-
+##### Öppna Förskolan in Sweden
+You may have heard of the öppna förskolan institutions in Sweden - an equivalent to a preschool where children are accompanied by their parents (and no responsibility is taken from the staff) but they can fully enjoy the large premises full of toys.
+As a parent you get the opportunity to make new, mainly international contacts, receive information about life in Gothenburg, Sweden or get support in the parental role in a new country.
 It is free to visit our International Open Preschool and you do not need to register in advance.
 
-###### Wednesdays 14-17
-###### Fridays 9-12
-
-###### Diamantgatan 24, Göteborg
-
-
-
-
 ##### A place to play and talk 
-Everyone who can speak English is welcome to the international open preschool. 
-We are mainly focused on creating a space for international residents living in Gothenburg and providing 
-support in living abroad as a parent but if you are a Swede who wants to get to know other English speaking parents, 
-you may join our playgroups as well!
-Here you can play together with your children, do crafts, have a coffee and participate in group activities 
-such as singing, occasional theater performances, outdoor walks or meetings with specialists. We are open twice 
-per week and in the middle of the opening hours there is a short guided program with our educators. 
-We sing international as well as Swedish songs and dance together. 
-Regularly we also arrange other events such as second hand markets or regional group meetings. 
-You may find the upcoming events in the event section.  
-
-The regular meetings are free of costs and you do not have to register yourself or your child in advance. 
-There is only a small fee for our coffee and snacks of 20SEK. The events may be payed depending on the type of activity.
+Everyone who can speak English is welcome to the international open preschool. We are mainly focused on creating a space for international residents living in Gothenburg and providing support in living abroad as a parent. Although if you are a Swede who wants to get to know other English speaking parents, you may join our playgroups as well!
+Here you can play together with your children, do crafts, enjoy your coffee and participate in group activities such as singing, occasional theater performances, outdoor walks or meetings with specialists.
+The regular meetings are free of costs and you do not have to register yourself or your child in advance. There is only a small fee for our coffee and snacks of 20SEK. Other events may be payed depending on the type of activity.
 
 ##### Premises
-We share our premises with a communal Öpnna Förskola at Opaltorget, Diamantgatan 24. 
-Thanks to their generosity, we are able to provide a fully equipped 3 rooms full of toys, 
-tables for arts&crafts, a dining room with kitchen and a microwave, as well as a quiet zone for breastfeeding. 
-Our restrooms provide changing tables and potties for toddlers. You can park your stroller in our hallway 
-where it is safe to leave your child nap as well.
-
+We share our premises with a communal öpnna förskolan at DIAMANTGATAN 24 - OPALTORGET. Thanks to their generosity, we are able to provide a fully equipped 3 rooms full of toys, tables for arts&crafts, a dining room with kitchen and a microwave, as well as a quiet zone for breastfeeding. Our restrooms provide changing tables and potties for toddlers. You can park your stroller in our hallway where it is safe to leave your child nap as well.
 
 **EVENTS**
 
 A group of activities are organized on a regular basis, others can be spontaneous and they are mostly organized by parents themselves.
+Please do not hesitate to reach to us in case you would like to come up with an event idea!
+Follow us on social media to get the most up to date information.
 
-##### Regular activities: 
-###### Svenska med barn 
-Every first Saturday in a month, 13-14:30  learn Swedish together with your child. 
-Parents focus on learning while their kids can run around and play with our educators.
-###### Book reading in your native language
-Wednesdays, 16:30-17.  We regularly read in Arabic, German, French, Polish and Spanish. 
-Every week there is one language, therefore the same language repeats every five weeks. 
+#### Regular activities: 
+- **Reading book in your language**
+A native speaker comes to read in one of these languages: Arabic, German, French, Polish and Spanish. Every week is one language only, therefore the same language repeats every five weeks.
 In case you would be interested in another language, please let us know!
-###### Meeting with a child care professional 
-Every first Saturday in a month, 10:30-12. We arrange a diverse range of meetings 
-with professionals in health, education, after class hobbies and many other areas. Please follow the calendar to see who is coming next.
+Next language: German
+EVERY WEDNESDAY, 16:30 - 17:00
 
+- **Meeting with a child care professional** 
+We arrange a diverse range of meetings with professionals in health, education, after class hobbies and many other areas.
+Next topic: "Children health check-ups in Sweden and private care." / Dr. Joanna Bell
+EVERY FIRST SATURDAY IN A MONTH, 16:30 - 17:00
 
-##### Irregular activities: 
-###### Child Clothing&toys Marketplace
-9.4.2022, 16-18
-###### Regional pop-up meeting - Brazil
-4.5.2022, 10-12, Plikta, Slottskogen, meeting point is the toy train.
-###### Three Little Piggies
-International Berlin Theatre for children coming to our place!! BOOKING NEEDED, 
-please contact us via email. Ideally for children aged 2-5 years old. 22.5.2022, 15-17. 
-###### Regional pop-up meeting - Australia
-18.6.2022, 10-12, Plikta, Slottskogen, meeting point is the toy train.
+- **Svenska med barn** 
+Learn Swedish together with your child. Parents focus on learning with a teacher while their kids can run around and play with our educators.
+We also offer Swedish classes for children up to 15 years upon request, a fee might be charged.
+EVERY FIRST SATURDAY IN A MONTH, 13:00 - 14:30
 
-
+#### Irregular activities: 
+- **Child Clothing&toys Marketplace**
+Collection of clothes and toys will be the whole month prior the marketplace´s date.
+    09. 04. 2022, 16:00 - 18:00
+- **Regional pop-up meeting: Brazil**
+Plikta, Slottskogen, meeting point is the toy train.
+Find us by the common language!
+    04. 05. 2022, 10:00 - 12:00
+- **Regional pop-up meeting: Australia**
+Plikta, Slottskogen, meeting point is the toy train.
+Find us by the common language!
+    22. 05. 2022, 10:00 - 12:00
+- **Three Little Piggies**
+International Berlin Theatre for children is coming to our place!!
+BOOKING NEEDED.
+Ideally for children aged 2-5 years old but older and younger kids are also welcome.
+    12. 06. 2022, 15:00 - 16:00
 
 
 **GOTHENBURG WITH KIDS**	
 
-Are you new to Gothenburg and are you looking for tips what to do and where to go?
-Here we have gathered a few links of places that we hope might help you to get to know the city better.
+Are you looking for tips what to do and where to go in Gothenburg? Here we gathered a few links of places that we hope might help you to get to know the city better. For more information please visit the home pages of each institution.
 
-For more information please visit the home pages of each institution.
+Öppen Förskola in Gothenburg - list of regular open preschools
 
-**Universeum** - is a public science centre and museum in Gothenburg, Sweden that opened in 2001.
-https://www.universeum.se/ 
-
-**Världskulturmuseet** - Museum of World culture - free entrance, https://www.varldskulturmuseet.se/
-
-**Liseberg** - amusement park, https://www.liseberg.se/
-
-**Göteborgs Naturhistoriska Museum** - Gothenburg Museum of Natural History , www.gnm.se
-
-**Göteborgs stadsmuseum** - Gothenburg City Museum, goteborgsstadsmuseum.se
-
-**Leo´s Lekland** - amusement, trampolines etc., two premises in Gothenburg: Mölndal and Partille, www.leoslekland.se
-
-**Megafun** - amusement, trampolines, etc., Backaplan, www.megafun.se 
-
-
-List of outdoor playgrounds in Gothenburg: https://goteborg.se/wps/portal/start/kultur-och-fritid/fritid-och-natur/parker-lekplatser/lekplatser/hitta-lekplatser?uri=gbglnk%3Agbg.page.e9777318-dc81-4755-9d60-628f8f146ffba&servicetype=Lekplatser
-
+- **Världskulturmuseet** - Museum of World culture, 2nd floor dedicated to children, free entrance https://www.varldskulturmuseet.se/
+- **Universeum** - a science centre and museum dedicated to children https://www.universeum.se/
+- **Liseberg** - amusement park https://www.liseberg.se/
+- **Göteborgs stadsmuseum** - Gothenburg City Museum, 3rd floor dedicated to children https://www.goteborgsstadsmuseum.se
+- **Göteborgs Naturhistoriska Museum** - Gothenburg Museum of Natural History, free entrance https://www.gnm.se
+- **Leo's Lekland** - fun park, trampolines, slides etc., two premises in Gothenburg: Mölndal and Partille https://www.leoslekland.se
+- **Outdoor playgrounds** - list of most playgrounds around town https://goteborg.se/wps/portal/start/kultur-och-fritid/fritid-och-natur/parker-lekplatser/lekplatser/hitta-lekplatser?uri=gbglnk%3Agbg.page.e9777318-dc81-4755-9d60-628f8f146ffba&servicetype=Lekplatser
 
 **CONTACT**
 
-Find us at Öppna förskola premises at Opaltorget.
 Diamantgatan 24, Göteborg, 451 23.
 
-MAP ??
+Please don't hesitate to contact us!
+Fill in the form in case you want to tell us anything or attend one of our events that need subscription. In case you prefer a direct contact, use email or phone of one of our educators.
 
-Contact us directly: 
-Name, Email, Your message to us. Submit.
-
-Currently there are two educators taking care of International Open Preschool. If you prefer, you can also reach to them directly: 
+Enter your full name
+Enter Your Email
+Area of your query
+What is on your mind?
+Submit - Thank you! We will get back to you as soon as possible. 
 
 Anna Smith
 anna.smith@intoppnaforskola.se
@@ -222,7 +218,10 @@ Nina Eriksson
 nina.eriksson@intoppnaforskola.se
 +46 797 55 61 24
 
+**FOOTER**
 
+Facebook, LinkedIn, Pinterest
+Copyright 2021: Göteborg Stad
 
 
 
