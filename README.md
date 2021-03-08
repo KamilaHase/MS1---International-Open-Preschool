@@ -105,7 +105,6 @@ This website and place are fictional although I personally believe that if it wo
 
 
 ## Testing
-The website was opened in Chrome, Mozzilla Firefox, Safari and Microsoft Edge to test all features and their functions.
 
 #### Website has been tested and corrected by: 
 - https://www.freeformatter.com/html-formatter.html
@@ -118,13 +117,14 @@ The website was opened in Chrome, Mozzilla Firefox, Safari and Microsoft Edge to
 - http://techsini.com/multi-mockup/index.php used for creating and checking mockups
 
 
-#### Testing client stories:
-- Most common path starts at Home page and from there goes to other pages upon personal interest.
-- As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently.
+#### Testing of features:
+The website was opened in Chrome, Mozzilla Firefox, Safari and Microsoft Edge to test all features and their functions. Also cache was cleared every time before I loaded the page.
+- **Navigation** - needs to link viewer across the website. Clicked repeatedly to links in menu to find out whether it leads properly to the pages and then the other way back as well.
+- **Circles and button links** - each circle on Home page contains text with link to other page in order to provide more 
 
-No matter what page the new visitor lands on, they can easily find and use the navigation bar.
-The logo image always leads back to the home page (the starting place for most client stories).
-The home page call to action button leads the client through the gallery.
+- Most common path starts at Home page and from there goes to other pages upon personal interest.
+- As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently. The navigation bar is always presented on top of page which allows easily to change page.
+
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
