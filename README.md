@@ -89,7 +89,7 @@ This website and place are fictional although I personally believe that if it wo
 - Getting around - could be connected to Google Calendar
 - Contact page - the validation could be more playfull such as "Looks good" / "Please provide a valid email"
 - Contact page - viewer would see the whole screen when opening page, failed to put pictures to the left side of the text
-- in general more moving features could be implemented to bring more playful feeling
+- In general more moving features could be implemented to bring more playful feeling
 
 ## Technologies Used
 (credit: https://github.com/Code-Institute-Solutions/SampleREADME)
@@ -100,7 +100,7 @@ This website and place are fictional although I personally believe that if it wo
 - **Git** - used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 - **GitHub** - used to store the projects code after being pushed from Git.
 - **GitPod** - main workspace
-- **Painting** - was used to cropping images
+- **Painting** - was used to cropp images
 - **MS Office Power Point** - used for creatin wireframes
 
 
@@ -118,56 +118,96 @@ This website and place are fictional although I personally believe that if it wo
 
 
 #### Testing of features:
-The website was opened in Chrome, Mozzilla Firefox, Safari and Microsoft Edge to test all features and their functions. Also cache was cleared every time before I loaded the page.
+The website was opened in Chrome, Mozzilla Firefox, Safari and Microsoft Edge to test all features and their functions. 
+Also cache was cleared every time before I loaded the page.
+All links leading to different website open in new windows.
+
 - **Navigation** - needs to link viewer across the website. Clicked repeatedly to links in menu to find out whether it leads properly to the pages and then the other way back as well.
-- **Circles and button links** - each circle on Home page contains text with link to other page in order to provide more 
+- **Circles and button links** - each circle on Home page contains text with link to other page in order to provide more information t the viewer. Links in each circle-area were clicked to check their functionality in all browsers.
+- **Footer** - all icons and link to Goeborg Stad were clicked and checked for their functionality. 
+- **Events** - three regular events and one irregular event contain links i buttons to Contact page. All for buttons were checked and clicked repeatedly.
+- **Getting around** - each list item contains link to a tip for place where to go. Links were checked if they lead where they are supposed to.
+- **Contact** - Form was checked, all input items were filled in, after clicking on submit button a modal popup appears. Despite there was added validation-required, unfortunately at the current level of skills I cannot implement more tools for validation. Left for future development.
 
+#### Testing User Stories from User Experience (UX) Section
+##### First Time Visitor Goals
 - Most common path starts at Home page and from there goes to other pages upon personal interest.
-- As a new visitor to the website, I want to easily navigate the site, so I can find what I need efficiently. The navigation bar is always presented on top of page which allows easily to change page.
+- The purpose of the page is clear from the Logo and Hero image - both the text and background picture. More information is provided when scrolling down the page in order to provide most basic information about International Open Preschool.
+- The visitor can easily navigate the site through clicking on buttons either in Circles section on Home page or through Navigation bar.
 
+##### Second Time Visitor Goals
+- the viewer opens Home page as default but as he/she is looking for specific information there is a clear path how to get there: either he/she scrolls down the Home page or through Navigation bar gets to part which he/she is looking for.
+- all main information that are expected to be seeeked for frequently are placed to top of pages: main iformation about days in week and times of opening as the first information (after logo and navigation) on Home page. Address is also places as the first information on Contact page. 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+### Problems during testing and development
+**1. Main problem was footer**
+      - extremely time consuming was footer which from an unknown reason doesn´t appear on bottom at certain device screen sizes IF the page does not have a vertical scroll down (Getting around and for xxl screens Contact). Mentor and many tutors were asked for help but not a perfect solution was find. I was told to change height, min-height on different elements, I was playing with position:absolute and relative, with bottom, margins and padding but nothing was fully successfull. 
+      Therefore as a final decision I implemented media queries for different screen sizes. Unfortunately not even this is fully working on every device as it was tested by family and friends but as the problem with "floating" footer is considering mainly only one page (Contact) AND only resolution for iPad or very large screens, I decided to leave it as it is.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
+**2. Circle Premises** - circle Premises is not showing the text only in Mozzilla Firefox. Other circles work fine in all browsers.
 
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
+**3. Hero image doesn´t show in Safari**
 
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
+**4. Circles were not showing well on small screens** - the problem was fixed with a help of tutor with removing fixed height. 
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+**5. Targeting Bootstrap classes** - through the entire project I was having problems rewriting classes from Bootstrap. Where I found a solution the class was overwritten, on some parts I simply went with Bootstrap default in order to save time. That is for example the case of color of buttons, color of modal popup (and its aligning, I was unable to align text to center).
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+**6. Scroll to left** - I had a lot of problems getting rid of the horizontal scroll space. With a help of third tutor I was able to fix it.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-
-
-#### Bug problems
-
-- Scroll to left - I am having a lot of problems getting rid of the horizontal scroll space. I have contacted tutors but all advice so far failed
-- Problems with circles and general responsiveness
-- problems with loading class
-- problems with JS
-- problems with footer not wanting to be at the bottom
 
 ## Deployment
+The website was develope on hosting page GitHub with a help of GitPod. Therefore the deployed page is hosted on Github Pages.
+Now the website is published on: https://kamilahase.github.io/MS1---International-Open-Preschool/
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+(credits: https://github.com/Code-Institute-Solutions/SampleREADME)
+### GitHub Pages
+The project was deployed to GitHub Pages using the following steps:
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Alternatively Click Here for a GIF demonstrating the process starting from Step 2.
+4. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+5. Under "Source", click the dropdown called "None" and select "Master Branch".
+6. The page will automatically refresh.
+7. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+### Forking the GitHub Repository
+1. By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+2. Log in to GitHub and locate the GitHub Repository
+3. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+4. You should now have a copy of the original repository in your GitHub account.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+### Making a Local Clone
+1. Log in to GitHub and locate the GitHub Repository
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type git clone, and then paste the URL you copied in Step 3.
+7. $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+8. Press Enter. Your local clone will be created.
 
 
 ## Credits
+The actual **content** was inspired by existing öppna forskolas in Gothenburg, mainly 
+[Öppna Förskolan Draken](https://goteborg.se/wps/portal/enhetssida/familjecentralen-glasmastaregatan-draken/oppna-forskolan/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziTYzcDQy9TAy9_S0szA0czS18DEx8DA2BbP1wsIIAQxdHQxOgAgMPQzcDx0BXM_8gVxMDAx9T_Shi9BugAEcDpyAjJ2MDA3d_I3L0I5tEnH48CqLwG1-QGwoEjooAKEDC7w!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/)
+and
+[Leksaksbiblioteket](https://www.leksaksbiblioteket.se/).
 
+The **design of content** was taking inspiration from: 
+    - https://auxfuse.github.io/Milestone1/
+    - https://damianism.github.io/custom_pc/index.html
+    - The Whiskey Project, Love Running and Resume by Code Institute
+
+The **code** was inspired by: 
+https://css-tricks.com/using-css-to-set-text-inside-a-circle/ - the circle sections adapted according to this copies code.
+
+### Acknowledgements
+
+- I received inspiration for this project from X
+
+
+### Media
+- The photos used in this site were obtained from ...
 
 
 
@@ -278,11 +318,3 @@ nina.eriksson@intoppnaforskola.se
 Facebook, LinkedIn, Pinterest
 Copyright 2021: Göteborg Stad
 
-
-
-### Media
-- The photos used in this site were obtained from ...
-
-### Acknowledgements
-
-- I received inspiration for this project from X
