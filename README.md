@@ -54,7 +54,7 @@ This website and place are fictional although I personally believe that if it wo
 - [Home Page 1](wireframes-mockups/home1-wireframe-min.png)
 - [Home Page 2](wireframes-mockups/home2-wireframe-min.png)
 - [Events](wireframes-mockups/events-wireframe-min.png)
-- [Getting around]wireframes-mockups/getting-around-wireframe-min.png)
+- [Getting around](wireframes-mockups/getting-around-wireframe-min.png)
 - [Contact](wireframes-mockups/contact-wireframe-min.png)
 
 #### Mockups
