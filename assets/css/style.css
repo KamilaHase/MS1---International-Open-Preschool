@@ -60,7 +60,7 @@ h3 {
     height: 100vh;
 
     background: url(../images/HaseKR-toys-blur-sm.jpg) no-repeat center center fixed;
-    -webkit-background-size: cover;
+    /*-webkit-background-size: cover;*/
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
@@ -245,71 +245,6 @@ h3 {
     height: 100%;
     line-height: 0.7;
     padding: 0;
-    text-align: center;
-    position: relative; 
-}
-
-.premises-heading::before {
-    content: "";
-    float: left;
-    height: 100%;
-    width: 50%;
-    shape-outside: polygon(
-        0 0,
-        98% 0,
-        50% 6%,
-        23.4% 17.3%,
-        6% 32.6%,
-        0 50%,
-        6% 65.6%,
-        23.4% 82.7%,
-        50% 94%,
-        98% 100%,
-        0 100%
-    );
-    shape-margin: 7%;
-}
-
-.premises-heading h4::before {
-    content: "";
-    float: right;
-    height: 100%;
-    width: 50%;
-    shape-outside: polygon(
-        2% 0%,
-        100% 0%,
-        100% 100%,
-        2% 100%,
-        50% 94%,
-        76.6% 82.7%,
-        94% 65.6%,
-        100% 50%,
-        94% 32.6%,
-        76.6% 17.3%,
-        50% 6%
-        );
-    shape-margin: 7%;
-}
-
-
-/*
-.premises-heading {
-  background: radial-gradient(
-    ellipse at center,
-    rgb(88, 59, 86) 0%,
-    rgba(88, 59, 86, 1) 70%,
-    rgba(160, 36, 2, 0) 70.3%
-    );
-    height: 100%;
-    width: 100%;
-}
-
-.premises-heading h4 {
-    font-size: 33px;
-    color: white;   
-    height: 100%;
-    line-height: 0.7;
-    padding: 0;
     position: relative;
 }
 
@@ -354,7 +289,7 @@ h3 {
         );
     shape-margin: 7%;
 }
-*/
+
 
 /*-------------------------EVENTS---*/
 
@@ -457,5 +392,13 @@ h3 {
     display: none;
 }
 }
+
+@media(min-width: 2000px) {
+#footer-to-bottom-contact {
+    position: absolute;
+    bottom: 0;
+} 
+} 
+
 
 
