@@ -90,6 +90,7 @@ This website and place are fictional although I personally believe that if it wo
 - Contact page - the validation could be more playfull such as "Looks good" / "Please provide a valid email"
 - Contact page - viewer would see the whole screen when opening page, failed to put pictures to the left side of the text
 - In general more moving features could be implemented to bring more playful feeling
+- Fix the hero image for ios small screen browsers - or adapt background to be more attractive for iphones and ipads
 
 ## Technologies Used
 (adapted accordingly by: https://github.com/Code-Institute-Solutions/SampleREADME)
@@ -144,9 +145,9 @@ All links leading to different website open in new windows.
       - extremely time consuming was footer which from an unknown reason doesn´t appear on bottom at certain device screen sizes IF the page does not have a vertical scroll down (Getting around and for xxl screens Contact). Mentor and many tutors were asked for help but not a perfect solution was find. I was told to change height, min-height on different elements, I was playing with position:absolute and relative, with bottom, margins and padding but nothing was fully successfull. 
       Therefore as a final decision I implemented media queries for different screen sizes. Unfortunately not even this is fully working on every device as it was tested by family and friends but as the problem with "floating" footer is considering mainly only one page (Contact) AND only resolution for iPad or very large screens, I decided to leave it as it is.
 
-**2. Circle Premises** - circle Premises is not showing the text only in Mozzilla Firefox. Other circles work fine in all browsers.
+**2. Circle Premises** - circle Premises was not showing the text only in Mozzilla Firefox. Other circles work fine in all browsers. Had to change size of font and line height to fix it.
 
-**3. Hero image doesn´t show in Safari**
+**3. Hero image doesn´t show in Safari** - as the hero image has position: fixed, it is not supported by ios as discussed with tutor. Unfortunately the screen "inspect" function doesn´t show this problem. Therefore for now I will leave it as it is (the background is black now so text is well visible). It is a lesson learned for future.
 
 **4. Circles were not showing well on small screens** - the problem was fixed with a help of tutor with removing fixed height. 
 
