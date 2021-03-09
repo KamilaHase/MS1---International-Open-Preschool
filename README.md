@@ -1,4 +1,4 @@
-![Mockup](wireframes-mockups/IOF-home-page-mockup.png)
+![Mockup](wireframes-mockups/IOF-home-page-mockup-min.png)
 
 # International Open Preschool - International Öppna Förskola
 
@@ -51,17 +51,17 @@ This website and place are fictional although I personally believe that if it wo
 - Two pictures instead of profile are meant to point out a bit of humor and "light" athmosphere the Open Preschool has meanwhile they are meant to provide a bit of characteristics (teddy bear with coffee, a robot)
 
 #### Wireframes
-- [Home Page 1](wireframes-mockups/Home page1 wireframe.png)
-- [Home Page 2](wireframes-mockups/Home page2 wireframe.png)
-- [Events](wireframes-mockups/Events wireframe.png)
-- [Getting around](wireframes-mockups/Getting around wireframe.png)
-- [Contact](wireframes-mockups/Contact wireframe.png)
+- [Home Page 1](wireframes-mockups/home1-wireframe-min.png)
+- [Home Page 2](wireframes-mockups/home2-wireframe-min.png)
+- [Events](wireframes-mockups/events-wireframe-min.png)
+- [Getting around]wireframes-mockups/getting-around-wireframe-min.png)
+- [Contact](wireframes-mockups/contact-wireframe-min.png)
 
 #### Mockups
-- [Home](wireframes-mockups/IOF-home-page-mockup.png)
-- [Events](wireframes-mockups/IOF-events-mockup.png)
-- [Getting around](wireframes-mockups/IOF-getting-around-mockup.png)
-- [Contact](wireframes-mockups/IOF-contact-mockup.png)
+- [Home](wireframes-mockups/IOF-home-page-mockup-min.png)
+- [Events](wireframes-mockups/IOF-events-mockup-min.png)
+- [Getting around](wireframes-mockups/IOF-getting-around-mockup-min.png)
+- [Contact](wireframes-mockups/IOF-contact-mockup-min.png)
 
 ## Features
 
