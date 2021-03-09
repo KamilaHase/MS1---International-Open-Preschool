@@ -109,8 +109,8 @@ This website and place are fictional although I personally believe that if it wo
 - https://validator.w3.org/#validate_by_input
     - Problem found:
         - Events - section class="events-intro" lacks heading - this is on purpose
-        - Getting around - section class="getting-around-intro" - this is on purpose
-                         - section class="geting-around" - this is on purpose
+        - Getting around - section class="getting-around-intro" lacks heading - this is on purpose
+                         - section class="geting-around" lacks heading - this is on purpose
 
 - https://jigsaw.w3.org/css-validator/validator
     - problems shown in the Circles area - shape-margin and shape-outside does not exist. This part of code has been copied (see link below) therefore I will keep it as it is.
