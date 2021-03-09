@@ -1,4 +1,4 @@
-![Mockup](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=d5d5411b-3896-4ae4-a755-f083b8805b29)
+![Mockup](wireframes-mockups/IOF-home-page-mockup.png)
 
 # International Open Preschool - International Öppna Förskola
 
@@ -51,17 +51,17 @@ This website and place are fictional although I personally believe that if it wo
 - Two pictures instead of profile are meant to point out a bit of humor and "light" athmosphere the Open Preschool has meanwhile they are meant to provide a bit of characteristics (teddy bear with coffee, a robot)
 
 #### Wireframes
-- [Home Page 1](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=3ad46968-1faf-4342-a8af-77714c2f094a)
-- [Home Page 2](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=c1fef373-a22e-46b1-92a3-eda3f8914075)
-- [Events](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=9d1a80ee-83fa-4082-9d2f-0ca603f492f9)
-- [Getting around](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=f0d0d1ac-f9f8-4156-8ffa-65c080871d9d)
-- [Contact](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=1fd15815-35e9-4eb3-a224-a9dfce4e7e48)
+- [Home Page 1](wireframes-mockups/Home page1 wireframe.png)
+- [Home Page 2](wireframes-mockups/Home page2 wireframe.png)
+- [Events](wireframes-mockups/Events wireframe.png)
+- [Getting around](wireframes-mockups/Getting around wireframe.png)
+- [Contact](wireframes-mockups/Contact wireframe.png)
 
 #### Mockups
-- [Home](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=d5d5411b-3896-4ae4-a755-f083b8805b29)
-- [Events](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=47b1e119-2554-475f-ae5c-d2f8cb56f80c)
-- [Getting around](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=8a39e816-4eb1-4a6a-b02a-39abb5a3a7e5)
-- [Contact](https://salmon-chicken-bkubtwpr.ws-eu03.gitpod.io/files/download/?id=d0ec957c-94ed-4e6c-b532-0a3e8342bb01)
+- [Home](wireframes-mockups/IOF-home-page-mockup.png)
+- [Events](wireframes-mockups/IOF-events-mockup.png)
+- [Getting around](wireframes-mockups/IOF-getting-around-mockup.png)
+- [Contact](wireframes-mockups/IOF-contact-mockup.png)
 
 ## Features
 
