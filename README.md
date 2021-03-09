@@ -66,12 +66,12 @@ This website and place are fictional although I personally believe that if it wo
 ## Features
 
 ### Existing Features
-- all buttons and links were styled using Bootstrap button/links classes
-- **Navigation** - each page starts with the logo of International Open Preschool that serves also as a "go to home page" link. The navigation was implemented by Bootstrap navbar classes with included toggler that is visible on small device screens. The navigation menu has already implemented hover functions and "active" functions from Bootstrap.
+- All buttons and links were styled using Bootstrap button/links classes
+- **Navigation** 
+    - Each page starts with the logo of International Open Preschool that serves also as a "go to home page" link. The navigation was implemented by Bootstrap navbar classes with included toggler that is visible on small device screens. The navigation menu has already implemented hover functions and "active" functions from Bootstrap.
 - **Footer** 
     - Each page ends with footer where there are implemented links to social media website of Internation Open Forskola.
     - Copyright information and link to Goteborg Stad - Gothenburg municipality who is the organizor of all öppna forskolas in town.
-
 - **Home** 
     - Hero image that is meant to create warm, fun and welcoming athmosphere, bellow are circles with headings and main description - the idea is to provide children related but yet a bit smooth design that is targeted at parents-readers
     - Each topic of "circles" section allows the viewer to provide more information if required by clicking on a *button* - to Events, to Getting around and to Contact. Each circles leads to one page in the provided order.
@@ -92,26 +92,26 @@ This website and place are fictional although I personally believe that if it wo
 - In general more moving features could be implemented to bring more playful feeling
 
 ## Technologies Used
-(credit: https://github.com/Code-Institute-Solutions/SampleREADME)
+(adapted accordingly by: https://github.com/Code-Institute-Solutions/SampleREADME)
 - **Bootstrap v5.0** - Bootstrap was used to assist with the responsiveness and styling of the website.
 - **Google Fonts** - Google fonts were used to import all fonts into the style.css file which is used on all pages throughout the project.
 - **Font Awesome** - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-- **jQuery** - came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript.
+- **jQuery** - came with Bootstrap to make the navbar responsive and also to help modal popup to work.
 - **Git** - used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 - **GitHub** - used to store the projects code after being pushed from Git.
-- **GitPod** - main workspace
-- **Painting** - was used to cropp images
-- **MS Office Power Point** - used for creatin wireframes
+- **Painting** - was used to crop images
+- **MS Office Power Point** - used for creating wireframes
 
 
 ## Testing
-
 #### Website has been tested and corrected by: 
 - https://www.freeformatter.com/html-formatter.html
 - https://validator.w3.org/#validate_by_input
-    - Events - <section class="events-intro"> lacks heading - this is on purpose
-    - Getting around - <section class="getting-around-intro" - this is on purpose
-                     - <section class="geting-around"> - this is on purpose
+    - Problem found:
+        - Events - section class="events-intro" lacks heading - this is on purpose
+        - Getting around - section class="getting-around-intro" - this is on purpose
+                         - section class="geting-around" - this is on purpose
+
 - https://jigsaw.w3.org/css-validator/validator
     - problems shown in the Circles area - shape-margin and shape-outside does not exist. This part of code has been copied (see link below) therefore I will keep it as it is.
 - http://techsini.com/multi-mockup/index.php used for creating and checking mockups
@@ -125,7 +125,7 @@ All links leading to different website open in new windows.
 - **Navigation** - needs to link viewer across the website. Clicked repeatedly to links in menu to find out whether it leads properly to the pages and then the other way back as well.
 - **Circles and button links** - each circle on Home page contains text with link to other page in order to provide more information t the viewer. Links in each circle-area were clicked to check their functionality in all browsers.
 - **Footer** - all icons and link to Goeborg Stad were clicked and checked for their functionality. 
-- **Events** - three regular events and one irregular event contain links i buttons to Contact page. All for buttons were checked and clicked repeatedly.
+- **Events** - three regular events and one irregular event contain links/ buttons to Contact page. All for buttons were checked and clicked repeatedly.
 - **Getting around** - each list item contains link to a tip for place where to go. Links were checked if they lead where they are supposed to.
 - **Contact** - Form was checked, all input items were filled in, after clicking on submit button a modal popup appears. Despite there was added validation-required, unfortunately at the current level of skills I cannot implement more tools for validation. Left for future development.
 
@@ -136,8 +136,8 @@ All links leading to different website open in new windows.
 - The visitor can easily navigate the site through clicking on buttons either in Circles section on Home page or through Navigation bar.
 
 ##### Second Time Visitor Goals
-- the viewer opens Home page as default but as he/she is looking for specific information there is a clear path how to get there: either he/she scrolls down the Home page or through Navigation bar gets to part which he/she is looking for.
-- all main information that are expected to be seeeked for frequently are placed to top of pages: main iformation about days in week and times of opening as the first information (after logo and navigation) on Home page. Address is also places as the first information on Contact page. 
+- The viewer opens Home page as default but as he/she is looking for specific information there is a clear path how to get there: either he/she scrolls down the Home page or through Navigation bar gets to part which he/she is looking for.
+- All main information that are expected to be seeeked for frequently are placed to top of pages: main iformation about days in week and times of opening as the first information (after logo and navigation) on Home page. Address is also places as the first information on Contact page. 
 
 ### Problems during testing and development
 **1. Main problem was footer**
@@ -159,8 +159,8 @@ All links leading to different website open in new windows.
 The website was develope on hosting page GitHub with a help of GitPod. Therefore the deployed page is hosted on Github Pages.
 Now the website is published on: https://kamilahase.github.io/MS1---International-Open-Preschool/
 
-(credits: https://github.com/Code-Institute-Solutions/SampleREADME)
 ### GitHub Pages
+(credit: https://github.com/Code-Institute-Solutions/SampleREADME)
 The project was deployed to GitHub Pages using the following steps:
 1. Log in to GitHub and locate the GitHub Repository
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
@@ -204,13 +204,13 @@ The **code** was inspired by:
 
 ### Acknowledgements
 Many thanks to my mentor who provided me with insprational feedback.
-Many thanks to tutors of Code Institue whos help was highly appreciated.
+Many thanks to tutors of Code Institue who´s help was highly appreciated and saved my nerves.
 
 
 ### Media
 - **Hero Image** - my own photography
 - **Background picture** - https://pixabay.com/images/id-1637197/
-- *Teddy bear with coffee** - https://wallpaper.mob.org/image/igrushki-medvedi-obekty-28514.html
+- **Teddy bear with coffee** - https://wallpaper.mob.org/image/igrushki-medvedi-obekty-28514.html
 - **Robot** - by Phillip Glickman, https://unsplash.com/photos/2umO15jsZKM
 
 
