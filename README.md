@@ -194,24 +194,27 @@ and
 [Leksaksbiblioteket](https://www.leksaksbiblioteket.se/).
 
 The **design of content** was taking inspiration from: 
-    - https://auxfuse.github.io/Milestone1/
-    - https://damianism.github.io/custom_pc/index.html
-    - The Whiskey Project, Love Running and Resume by Code Institute
+ - https://auxfuse.github.io/Milestone1/
+ - https://damianism.github.io/custom_pc/index.html
+ - The Whiskey Project, Love Running and Resume by Code Institute
 
 The **code** was inspired by: 
-https://css-tricks.com/using-css-to-set-text-inside-a-circle/ - the circle sections adapted according to this copies code.
+- https://css-tricks.com/using-css-to-set-text-inside-a-circle/ - the circle sections adapted according to this copies code.
+- [Bootstrap v5.0](https://getbootstrap.com/)
 
 ### Acknowledgements
-
-- I received inspiration for this project from X
+Many thanks to my mentor who provided me with insprational feedback.
+Many thanks to tutors of Code Institue whos help was highly appreciated.
 
 
 ### Media
-- The photos used in this site were obtained from ...
+- **Hero Image** - my own photography
+- **Background picture** - https://pixabay.com/images/id-1637197/
+- *Teddy bear with coffee** - https://wallpaper.mob.org/image/igrushki-medvedi-obekty-28514.html
+- **Robot** - by Phillip Glickman, https://unsplash.com/photos/2umO15jsZKM
 
 
-
-## Content
+## Full content
 
 **HOME    EVENTS 	    GOTHENBURG WITH KIDS	    CONTACT**
 
